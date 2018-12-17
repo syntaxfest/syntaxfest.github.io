@@ -1,0 +1,61 @@
+body {color:#003366; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; }
+p, li {color:#003366; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; }
+
+/*a, a:hover, a:visited {color:#339980; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}*/
+/* light orange #e08622; */
+/* dark orange #b66c1a; */
+a, a:hover, a:visited {color:#b66c1a; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}
+a:hover, a:visited {color:#e08622; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}
+
+
+h1 {color:#003366; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; font-size:2em; text-align:left;}
+h2 {color:#b66c1a; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; font-size:1.5em; text-align:left;}
+
+#box {
+display:none}
+
+a.nav {
+    /*color:#003366;*/
+    color:#b66c1a;
+	font-size:16px;
+	float:left;
+	padding-bottom:10px;
+	background: transparent url("images/navNormal.png") top left no-repeat;
+	height:25px;
+}
+.nav:hover {
+    /*color:#339980;*/
+    color:#e08622;
+	/*background:#369;*/
+	text-decoration:none;
+	background: transparent url("images/navHover.png") top left no-repeat;
+}
+
+.styles th { text-align: left}
+.styles td { border: 1px solid grey; padding:2%; text-align:left}
+.styles {border-collapse: collapse; width: 75%}
+.styles a {text-decoration: underline}
+
+.styles a { color:#003366 }
+
+div.papers > p {
+  margin: 0; padding:0;
+}
+
+div.papers p i {
+  font-weight: bold;
+  display: block;
+  margin-top: 12px;
+}
+
+div.papers p p { 
+  margin-bottom: 12px;
+}
+
+table.program, table.program td, table.program th {border: 1px solid #999;
+       vertical-align: middle;
+       padding: 6px;
+       border-collapse: collapse
+       }
+
+table.program td.bgrey {background-color: #eee}
