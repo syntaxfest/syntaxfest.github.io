@@ -1,14 +1,14 @@
-body {color:#003366; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; }
-p, li {color:#003366; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; }
+body {color:#0D3E8C; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; }
+p, li {color:#0D3E8C; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; }
 
 /*a, a:hover, a:visited {color:#339980; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}*/
 /* light orange #e08622; */
 /* dark orange #b66c1a; */
-a, a:hover, a:visited {color:#b66c1a; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}
+a, a:hover, a:visited {color:#D45600; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}
 a:hover, a:visited {color:#e08622; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif;text-decoration:none}
 
 
-h1 {color:#003366; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; font-size:2em; text-align:left;}
+h1 {color:#0D3E8C; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; font-size:2em; text-align:left;}
 h2 {color:#b66c1a; font-family:Luxi Sans,Candara,Arial,Helvetica,sans-serif; font-size:1.5em; text-align:left;}
 
 #box {
@@ -16,7 +16,7 @@ display:none}
 
 a.nav {
     /*color:#003366;*/
-    color:#b66c1a;
+    color:#D45600;
 	font-size:16px;
 	float:left;
 	padding-bottom:10px;
@@ -25,7 +25,7 @@ a.nav {
 }
 .nav:hover {
     /*color:#339980;*/
-    color:#e08622;
+    color:#833500;
 	/*background:#369;*/
 	text-decoration:none;
 	background: transparent url("images/navHover.png") top left no-repeat;
@@ -36,7 +36,7 @@ a.nav {
 .styles {border-collapse: collapse; width: 75%}
 .styles a {text-decoration: underline}
 
-.styles a { color:#003366 }
+.styles a { color:#D45600 }
 
 div.papers > p {
   margin: 0; padding:0;
