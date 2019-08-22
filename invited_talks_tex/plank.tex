@@ -1,0 +1,92 @@
+%File SyntaxFest2019.tex
+\documentclass[11pt]{article}
+
+\usepackage{SyntaxFest2019}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{mathptmx}
+\usepackage{expex}
+\usepackage[T1]{fontenc}
+\usepackage{pinyin}
+
+\usepackage{CJKutf8}
+\newcommand{\Chinese}[1]{\begin{CJK*}{UTF8}{gbsn}#1\end{CJK*}}
+
+
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, label={\large\textbullet}}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+
+%@@marie: can't succeed in adding a page foot
+
+%\usepackage[footsepline,plainfootsepline]{scrlayer-scrpage}
+%\setkomafont{pagefoot}{\scriptsize\itshape}
+%\cfoot*{Blablabla}
+
+%% \usepackage{fancyhdr}
+%% \pagestyle{fancy}
+%% \renewcommand\headrulewidth{1pt}
+%% \fancyfoot[C]{SyntaxFest - August 26-30 2019 - Paris}
+
+    %% \usepackage{fancyhdr}
+    %% \fancyhead{}% efface le contenu de l'en-tete
+    %% \fancyfoot{}% efface le contenu du pied de page
+    %% \fancyhead[RO,LE]{\textbf{2009-2010}}
+    %% \fancyhead[LO,RE]{\textbf{\nouppercase{\leftmark}}}
+    %% \rfoot{\textit{claire Latex}}% pied de page en bas à droite sur la premiere page seulement
+    %% \cfoot{\thepage}
+    %% \pagestyle{fancy}
+
+\title{Invited Talk\\
+  {\small Wednesday 28th August 2019}\\
+  Transferring NLP models across languages and domains}
+
+\author{Barbara Plank\\
+  IT University of Copenhagen}
+%\\
+%  \texttt{email@domain} \\
+
+
+%\date{}
+
+
+
+\begin{document}
+\maketitle
+\begin{abstract}
+  How can we build Natural Language Processing models for new domains
+  and new languages?
+
+  In this talk I will survey some recent advances to
+address this ubiquitous challenge, from cross-lingual transfer to
+learning models under distant supervision from disparate sources,
+multitask-learning and data selection.
+\end{abstract}
+
+\vspace{4mm}
+\begin{shortbio}
+  Barbara Plank is Associate Professor in Natural Language Processing at
+IT University of Copenhagen.
+She has previously held positions as assistant professor at the
+University of Groningen and the University of
+Copenhagen, and a postdoc position at the University of Trento. Her
+research interests within NLP are broad and include learning under
+sample
+selection bias (domain adaptation, transfer learning), learning from
+beyond the text and multimodal inputs, and in general learning under
+limited supervision
+for cross-domain and cross-lingual NLP, applied to a range of
+applications from author profiling, syntactic language understanding,
+information extraction and visual question answering.
+
+Barbara is
+member of the advisory board of the Association for Computational
+Linguistics and publicity director of the Association for
+Computational Linguistics.
+\end{shortbio}
+
+\end{document}

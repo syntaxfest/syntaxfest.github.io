@@ -1,0 +1,285 @@
+%File SyntaxFest2019.tex
+\documentclass[11pt]{article}
+
+\usepackage{SyntaxFest2019}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{mathptmx}
+\usepackage{expex}
+\usepackage[T1]{fontenc}
+\usepackage{pinyin}
+
+\usepackage{CJKutf8}
+\newcommand{\Chinese}[1]{\begin{CJK*}{UTF8}{gbsn}#1\end{CJK*}}
+
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, label={\large\textbullet}}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+
+\title{Instructions for all conference proceedings of the SyntaxFest 2019}
+
+\author{First Author \\
+  Affiliation / Address line 1 \\
+  Affiliation / Address line 2 \\
+  Affiliation / Address line 3 \\
+  \texttt{email@domain} \\\And
+  Second Author \\
+  Affiliation / Address line 1 \\
+  Affiliation / Address line 2 \\
+  Affiliation / Address line 3 \\
+  \texttt{email@domain} \\}
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+This document contains the instructions for preparing a paper submitted to one of the conferences of the SyntaxFest-2019 or accepted for publication in one of the corresponding proceedings. The document itself conforms to its own specifications, and is therefore an example of what your manuscript should look like. These instructions should be used for both papers submitted for review and for final versions of accepted papers. Authors are asked to conform to all the directions reported in this document.
+\end{abstract}
+
+
+
+\section{Credits}
+
+This document is a compilation of the instructions for Coling-2018 and for Depling-2015 proceedings, which are both based on numerous previous versions.
+
+
+
+\section{Introduction}
+\label{intro}
+
+The following instructions are directed to authors of papers for the SyntaxFest 2019 or accepted for publication in one of the SyntaxFest conference proceedings. The SyntaxFest 2019 brings together four conferences: 
+\begin{itemize}
+\item Quasy : The Workshop on Quantitative Syntax (August 26)
+\item Depling : The Conference on Dependency Linguistics (August 27--28)
+\item TLT : The 18th International Workshop on Treebanks and Linguistic Theories (August 28--29)
+\item UDW : The Universal Dependencies Workshop (August 29--30)
+\end{itemize}
+All authors for any of these conferences are required to adhere to these specifications. Authors are required to provide a Portable Document Format (PDF) version of their papers. The proceedings are designed for printing on A4 paper.
+
+We may make additional instructions available at \url{https://syntaxfest.github.io/syntaxfest19/}. Please check this website regularly.
+
+
+
+\section{General Instructions}
+
+Manuscripts must be in single-column format. \textbf{Type single-spaced}. Start all pages directly under the top margin. See the guidelines later regarding formatting the first page. The lengths of manuscripts should not exceed the maximum page limit described in Section~\ref{sec:length}.
+Do not number the pages.
+
+
+\subsection{Electronically-available Resources}
+
+We provide electronic resources for working with LaTeX, LibreOffice Writer, and Microsoft Word in the SyntaxFest2019.zip. For LaTeX, please prepare your PDF files with the official SyntaxFest 2019 style file (SyntaxFest2019.sty) and bibliography style (acl.bst). For LibreOffice, please start with SyntaxFest2019.ott which will open a new file based on the style file. Equally, for Microsoft Word, please base your paper on the SyntaxFest2019.dot file.
+
+If you will be using LibreOffice or Microsoft Word, you must anonymize your source file so that the pdf produced does not retain your identity. This can be done by removing any personal information from your source document properties.
+
+
+\subsection{Format of Electronic Manuscript}
+\label{sect:pdf}
+
+For the production of the electronic manuscript you must use the Portable Document Format (PDF). Please make sure that your PDF file includes all the necessary fonts (especially tree diagrams, symbols, and fonts for non-Latin characters). When you print or create the PDF file, there is usually an option in your printer setup to include none, all, or just non-standard fonts. Please make sure that you select the option of including ALL the fonts. Before sending it, test your PDF by opening it on a computer different from the one where it was created. Moreover, some word processors may generate very large PDF files, where each page is rendered as an image. Such images may reproduce poorly. In this case, try alternative ways to obtain the PDF. One way on some systems is to install a driver for a postscript printer, send your document to the printer specifying ``Output to a file'', then convert the file to PDF. It is of utmost importance to specify the A4 format ($ 21 cm \times 29.7 cm $) when formatting the paper. 
+
+
+\subsection{Layout}
+\label{ssec:layout}
+
+Format manuscripts with a single column to a page, in the manner these instructions are formatted. The exact dimensions for a page on A4 paper are:
+
+\begin{itemize}
+\item Left and right margins: 2.5 cm
+\item Top margin: 2.5 cm
+\item Bottom margin: 2.5 cm
+\item Width: 16.0 cm
+\item Height: 24.7 cm
+\end{itemize}
+
+\noindent Papers should not be submitted on any other paper size.
+
+
+\subsection{Fonts}
+
+For reasons of uniformity, \textbf{Times New Roman} font should be used. In LaTeX this is accomplished approximately by putting
+
+\begin{quote}
+\begin{verbatim}
+\usepackage{mathptmx}
+\end{verbatim}
+\end{quote}
+in the preamble. If Times New Roman is unavailable, use Times Roman, or Computer Modern Roman (LaTeX2e's default).
+
+\begin{table}[ht]
+\begin{center}
+\begin{tabular}{|l|rl|}
+\hline \textbf{Type of Text} & \textbf{Font Size} & \textbf{Style} \\ \hline
+paper title & 15 pt & bold \\
+author names & 12 pt & bold \\
+author affiliation & 12 pt & \\
+the word ``Abstract'' & 12 pt & bold \\
+section titles & 12 pt & bold \\
+document text & 11 pt  &\\
+captions & 11 pt & \\
+sub-captions & 9 pt & \\
+abstract text & 11 pt & \\
+bibliography & 10 pt & \\
+footnotes & 9 pt & \\
+\hline
+\end{tabular}
+\end{center}
+\caption{\label{font-table} Font guide. }
+\end{table}
+
+
+\subsection{The First Page}
+\label{ssec:first}
+
+Centre the title, author's name(s) and affiliation(s) across
+the page. Do not use footnotes for affiliations. Do not include the paper ID number assigned during the submission process. Do not include the authors' names or affiliations in the version submitted for review.
+
+\textbf{Title}: Place the title centred at the top of the first page, in a 15 pt bold serif font. (For a complete guide to font sizes and styles, see Table~\ref{font-table}.) Long titles should be typed on two lines without a blank line intervening. Approximately, put the title at 2.5 cm from the top of the page, followed by a blank line, then the author's names(s), and the affiliation on the following line. Do not use only initials for given names (middle initials are allowed). Do not format surnames in all capitals (e.g., use ``Schlangen'' not ``SCHLANGEN''). Do not format title and section headings in all
+capitals as well except for proper names (such as ``BLEU'') that are conventionally in all capitals. The affiliation should contain the author's complete address, and if possible, an electronic mail address. Start the body of the first page 7.5 cm from the top of the page.
+
+The title, author names and addresses should be completely identical to those entered to the electronical paper submission website in order to maintain the consistency of author information among all publications of the conference. If they are different, the publication co-chairs may resolve the difference without consulting with you; so it is in your own interest to double-check that the information is consistent.
+
+\textbf{Abstract}: Type the abstract between addresses and main body. The width of the abstract text should be smaller than main body by about 0.6 cm on each side. Centre the word \textbf{Abstract} in a 12 pt bold font above the body of the abstract. The abstract should be a concise summary of the general thesis and conclusions of the paper. It should be no longer than 200 words. The abstract text should be in 11 pt font.
+
+\textbf{Text}: Begin typing the main body of the text immediately after the abstract, observing the single-column format as shown in the present document. Do not include page numbers.
+
+\textbf{Indent} when starting a new paragraph, except after a section or subsection heading, after a figure, or after a bulleted list. Use 11 pt for text and subsection headings, 12 pt for section headings and 15 pt for the title. 
+
+
+\subsection{Sections}
+
+\textbf{Headings}: Type and label section and subsection headings in the style shown on the present document. Use numbered sections (Arabic numerals) in order to facilitate cross references. Number subsections with the section number and the subsection number separated by a dot, in Arabic numerals. Do not number subsubsections.
+
+\textbf{Citations}: Citations within the text appear in parentheses
+as~\cite{Gusfield:97} or, if the author's name appears in the text itself, as Gusfield~\shortcite{Gusfield:97}. Append lowercase letters to the year in cases of ambiguity. Treat double authors as in~\cite{Aho:72}, but write as in~\cite{Chandra:81} when more than two authors are involved. Collapse multiple citations as in~\cite{Gusfield:97,Aho:72}. Also refrain from using full citations as sentence constituents. We suggest that instead of
+\begin{quote}
+  ``\cite{Gusfield:97} showed that \ldots''
+\end{quote}
+you use
+\begin{quote}
+``Gusfield \shortcite{Gusfield:97}   showed that \ldots''
+\end{quote}
+
+If you are using the provided LaTeX and BibTeX style files, you
+can use the command \verb|\newcite| to get ``author (year)'' citations.
+
+As reviewing will be double-blind, the submitted version of the papers should not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g.,
+\begin{quote}
+``We previously showed \cite{Gusfield:97} \ldots''  
+\end{quote}
+should be avoided. Instead, use citations such as 
+\begin{quote}
+``Gusfield \shortcite{Gusfield:97}
+previously showed \ldots''
+\end{quote}
+
+\textbf{Please do not use anonymous citations} and do not include any of the following when submitting your paper for review: acknowledgements, project names, grant numbers, and names or URLs of resources or tools that have only been made publicly available in the last 3 weeks or are about to be made public and would compromise the anonymity of the submission.
+Papers that do not conform to these requirements may be rejected without review. These details can, however, be included in the camera-ready, final paper.
+
+\textbf{References}: Gather the full set of references together under the heading \textbf{References}; place the section before any Appendices, unless they contain references. Arrange the references alphabetically by first author, rather than by order of occurrence in the text. Provide as complete a citation as possible, using a consistent format, such as the one for {\em Computational Linguistics\/} or the one in the {\em Publication Manual of the American Psychological Association\/}~\cite{APA:83}. Use of full names for authors rather than initials is preferred. A list of abbreviations for common computer science journals can be found in the ACM {\em Computing Reviews\/}~\cite{ACM:83}.
+
+The LaTeX and BibTeX style files provided roughly fit the
+American Psychological Association format, allowing regular citations, short citations and multiple citations as described above.
+
+\textbf{Appendices}: Appendices, if any, directly follow the text and the references (but see above).  Letter them in sequence and provide an informative title: \textbf{Appendix A}. \textbf{Title of Appendix}.
+
+
+\subsection{Footnotes}
+
+\textbf{Footnotes}: Put footnotes at the bottom of the page and use 9 pt text. They may be numbered or referred to by asterisks or other symbols.\footnote{This is how a footnote should appear.} Footnotes should be separated from the text by a line.\footnote{Note the line separating the footnotes from the text.}
+
+
+\subsection{Graphics}
+
+\textbf{Illustrations}: Place figures, tables, and photographs in the paper near where they are first discussed, rather than at the end, if possible. Colour illustrations are discouraged, unless you have verified that they will be understandable when printed in black ink.
+
+\textbf{Captions}: Provide a caption for every illustration; number each one sequentially in the form: ``Figure 1. Caption of the Figure.'' ``Table 1. Caption of the Table.'' Type the captions of the figures and tables below the body, using 11 pt text.
+
+Narrow graphics together with the single-column format may lead to large empty spaces, see for example the wide margins on both sides of Table~\ref{font-table}. If you have multiple graphics with related content, it may be preferable to combine them in one graphic. You can identify the sub-graphics with sub-captions below the sub-graphics numbered (a), (b), (c) etc.\ and using 9 pt text. The LaTeX packages \textbf{wrapfig}, \textbf{subfig}, \textbf{subcaption} may be useful.
+
+
+
+\section{Translation of non-English Terms}
+
+It is also advised to supplement non-English characters and terms with appropriate transliterations and/or translations
+since not all readers understand all such characters and terms.
+Inline transliteration or translation can be represented in
+the order of: original-form transliteration ``translation''.
+
+Inline transliteration or translation can be represented in the order of: original-form transliteration `\emph{translation}'. For example, \Chinese{台灣大學} tai-wan-da-xue `\emph{Taiwan University}' is the full name for its abbreviation \Chinese{台大} tai-da.
+
+\ex
+\begingl
+\gla \Chinese{伊娃来到巴塞罗那。}//
+\glb {\Yi1\wa2 \lai2 \dao4 \ba0\sai4\luo2\na4.} //
+\glb {Eva {} {} come {} {} Barcelona} //
+\glft `\emph{Eva comes to Barcelona}.' //
+\endgl
+\xe
+
+
+\section{Length of Submission}
+\label{sec:length}
+
+The maximum submission length is 10 pages (A4) for a long paper and 6 pages (A4) for a short paper, plus an unlimited number of pages for references. Papers that do not conform to the specified length and formatting requirements may be rejected without review.
+
+\section*{Acknowledgements}
+
+The acknowledgements should go immediately before the references. Do not number the acknowledgements section. Do not include this section when submitting your paper for review.
+
+% include your own bib file like this:
+%\bibliographystyle{acl}
+%\bibliography{coling2018}
+
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Aho and Ullman}1972]{Aho:72}
+Alfred~V. Aho and Jeffrey~D. Ullman.
+\newblock 1972.
+\newblock {\em The Theory of Parsing, Translation and Compiling}, volume~1.
+\newblock Prentice-{Hall}, Englewood Cliffs, NJ.
+
+\bibitem[\protect\citename{{American Psychological Association}}1983]{APA:83}
+{American Psychological Association}.
+\newblock 1983.
+\newblock {\em Publications Manual}.
+\newblock American Psychological Association, Washington, DC.
+
+\bibitem[\protect\citename{{Association for Computing Machinery}}1983]{ACM:83}
+{Association for Computing Machinery}.
+\newblock 1983.
+\newblock {\em Computing Reviews}, 24(11):503--512.
+
+\bibitem[\protect\citename{Chandra \bgroup et al.\egroup }1981]{Chandra:81}
+Ashok~K. Chandra, Dexter~C. Kozen, and Larry~J. Stockmeyer.
+\newblock 1981.
+\newblock Alternation.
+\newblock {\em Journal of the Association for Computing Machinery},
+  28(1):114--133.
+
+\bibitem[\protect\citename{Gusfield}1997]{Gusfield:97}
+Dan Gusfield.
+\newblock 1997.
+\newblock {\em Algorithms on Strings, Trees and Sequences}.
+\newblock Cambridge University Press, Cambridge, UK.
+
+\bibitem[\protect\citename{Melcuk}1988]{Melcuk:88}
+Igor Mel'\v{c}uk.
+\newblock 1988.
+\newblock {\em Dependency Syntax: Theory and Practice}.
+\newblock The SUNY Press, Albany, N.Y.
+
+\bibitem[\protect\citename{Tesniere}1959]{Tesniere:59}
+Lucien Tesni\`{e}re.
+\newblock 1959.
+\newblock {\em \'{E}l\'{e}ments de syntaxe structurale}.
+\newblock Klincksieck, Paris.
+
+\end{thebibliography}
+
+\end{document}
