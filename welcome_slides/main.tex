@@ -1,0 +1,247 @@
+\documentclass{beamer}
+\usetheme{XXX}
+
+\usepackage{tikz-dependency}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[autolanguage]{numprint}
+%\usepackage[frenchb]{babel}
+\usepackage{amssymb}
+
+\usepackage{scrextend}
+\changefontsizes{13pt}
+
+%\newcommand\blockref[1]{\hfill\raisebox{.1em}{\tiny{[#1]}}}
+\usepackage{etex}
+%\usepackage{qtree}
+
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{xspace}  
+\usepackage{linguex}
+\usepackage{url}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{soulutf8}
+\makeatletter
+\newcommand\SoulColor{%
+  \let\set@color\beamerorig@set@color
+  \let\reset@color\beamerorig@reset@color}
+\makeatother
+\usepackage{array}
+\usepackage{gb4e}
+\newenvironment{itexe}{\vspace{-0.43em}\begin{exe}\it }{\end{exe}\vspace{-0.43em}}
+
+\usepackage{todonotes}
+
+%\newenvironment{myeg}{\vspace{0.7ex}\par \noindent \it}{\vspace{0.7ex}}
+
+\definecolor{deepcarminepink}{rgb}{0.94, 0.19, 0.22}
+\definecolor{deepcarrotorange}{rgb}{0.91, 0.41, 0.17}
+\definecolor{tiffanyblue}{rgb}{0.04, 0.73, 0.71}
+\definecolor{ultramarineblue}{rgb}{0.25, 0.4, 0.96}
+\definecolor{ufogreen}{rgb}{0.24, 0.82, 0.44}
+\definecolor{DodgerBlue4}{rgb}{0.064,0.305,0.545}
+\definecolor{bblue}{RGB}{0,34,138}
+\definecolor{DeepSkyBlue4}{RGB}{0,104,139} %{0,0.408,0.545}
+\definecolor{Firebrick3}{rgb}{.804,.15,.15}
+
+
+\definecolor{role1}{HTML}{D95F02}
+\definecolor{role2}{HTML}{7570B3} %≠ de cognizer, categ, impression et state
+\definecolor{role3}{HTML}{E7298A} % ≠ de cognizer et item %utiliser pour depictive aussi
+\definecolor{role4}{HTML}{1B9E77}%≠ de cognizer, item, categ, impression et state  %utiliser pour Phenomenon aussi
+\definecolor{role5}{HTML}{E6AB02}% ≠ de cognizer, item, content et state
+\definecolor{role6}{HTML}{A6761D}% ≠ de cognizer, item, content et impression
+
+
+%\definecolor{mytiffanyblue}{tiffanyblue!97!black}
+
+\newcommand{\hlcolor}[1]{\textcolor{Orange}{#1}}%DarkScarletRed}{#1}} %{\textcolor{Orange}{#1}}
+\newcommand{\bcolor}[1]{\textcolor{bblue}{#1}} %{\textcolor{blue}{#1}}
+%\newcommand{\bcolor}[1]{\textcolor{ultramarineblue}{#1}}
+\newcommand{\ccolor}[1]{\textcolor{DeepSkyBlue4}{#1}} %{\textcolor{tiffanyblue!97!black}{#1}}
+
+\newcommand{\rolebox}[2]{\SoulColor\sethlcolor{#1}\SoulColor\hl{#2}}
+
+\newcommand{\lex}[1]{\textbf{#1}}  %Lexicalized component
+\newcommand{\ile}[1]{\textsl{#1}} %In-line example
+\newcommand{\car}[1]{\textcolor{black}{#1}}
+\newcommand{\mat}[2]{\textcolor{red}{#1 (MCo: #2)}}
+
+%%shadow ne passe pas \useoutertheme[subsection=false,shadow,footline=authortitle]{miniframes}
+%%\useoutertheme[subsection=false,footline=authortitle]{miniframes}
+%\useinnertheme{default}
+\usepackage{multicol}
+
+\setbeamercolor{footlinecolor}{bg=DeepSkyBlue4,fg=white}
+\setbeamertemplate{footline}
+{%
+\begin{beamercolorbox}{footlinecolor}
+%\vskip2pt\hspace{2em}\insertshortauthor[width=0.19\paperwidth]\insertshorttitle[width=0.57\paperwidth]12 juin 2015\hspace{2em}\insertframenumber/\inserttotalframenumber\vskip1pt
+\vskip2pt\hspace{2em}\insertshorttitle \hspace{30em}\insertframenumber/\inserttotalframenumber\vskip1pt
+\end{beamercolorbox}%
+}
+
+
+
+
+\setbeamercolor*{lower separation line head}{bg=DeepSkyBlue4} 
+%\setbeamercolor*{normal text}{fg=black,bg=white} 
+%\setbeamercolor*{alerted text}{fg=red} 
+%\setbeamercolor*{example text}{fg=black} 
+%\setbeamercolor*{structure}{fg=black} 
+ 
+\setbeamercolor*{palette tertiary}{fg=black,bg=black!10} 
+\setbeamercolor*{palette quaternary}{fg=black,bg=black!10} 
+
+\mode<presentation>{
+%  \usetheme{Warsaw}
+  % ou autre ...
+
+  \setbeamercovered{transparent}
+
+%  \setbeamercolor{structure}{fg=Orange!80}
+  \setbeamercolor{structure}{fg=DeepSkyBlue4} %{fg=tiffanyblue!97!black}
+
+  % couleur des titres de diapos
+  \setbeamercolor{title}{fg=Orange} %DarkScarletRed} %{fg=Orange}
+  \setbeamercolor{frametitle}{fg=Orange} %DarkScarletRed} %{fg=Orange}
+}
+
+
+
+\usepackage{fixltx2e}
+\newcommand{\down}[1]{\textsubscript{#1}}
+\renewcommand{\bibsection}{\subsubsection*{\bibname }}
+\setcounter{tocdepth}{1}
+
+\author{\footnotesize{Quasy\\Depling 2019\\TLT 2019\\UDW 2019}}
+
+\title[SyntaxFest 2019 - Paris - 26-30 August]{Welcome to the SyntaxFest 2019!}
+%\subtitle{\color{white}{(ANR-2012-CORD)}}
+
+\date{\hlcolor{Paris}\\{\ccolor{26-30 August 2019}}}
+
+%%\titlegraphic{\vspace{-8mm}
+%%%\includegraphics[height=1.5cm]{logo-ALPAGE.eps}\hspace*{5cm}~%
+%%\includegraphics[height=1.5cm]{llf.png}\hspace*{5cm}~%
+%%   \includegraphics[height=2cm]{logo-asfalda.eps}
+%%}
+
+\begin{document}
+\frame[plain]{\titlepage}
+
+%\tableofcontents
+
+\begin{frame}{Many co-chairs}
+  \begin{itemize}
+    \item Xinying Chen and Ramon Ferrer i Cancho
+    \item Kim Gerdes and Sylvain Kahane
+    \item Marie Candito and Djamé Seddah (Stephan Oepen and Kilian Evang)
+    \item Francis Tyer and Alexandre Rademaker (Teresa Lynn and Arne Köhn)
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Papers' statistics}
+
+\begin{itemize}
+\item single joint reviewing process
+\item mostly multiple submissions
+\vspace{2mm}
+\item Long papers : 40 submissions
+\begin{itemize}
+\item 14 Quasy / 31 Depling / 13 TLT / 16 UDW (=74, overlap!)
+\end{itemize}
+\item 28 accepted (acceptance rate = 70\%)
+
+\item Short papers : 62 submissions
+\begin{itemize}
+\item 24 Quasy / 41 Depling / 35 TLT / 37 UDW (overlap!)
+\end{itemize}
+\item 41 accepted (acceptance rate = 66\%)
+
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}{People statistics}
+
+\begin{itemize}
+\item 104 participants so far
+\item payment zones:
+\begin{itemize}
+\item E.U. (except France) : 54.1\%
+\item France : 16.3\%
+\item Asia : 13.3\%
+\item North America : 9.2\%
+\item Rest of Europe : 6.1\%
+\item Africa : 1\%
+\end{itemize}
+
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}{5 Invited speakers}
+
+Easy: one per day
+\begin{itemize}
+
+\item    Ramon Ferrer i Cancho - Universitat Politecnica de Catalunya (UPC)
+\item     Emmanuel Dupoux - ENS/CNRS/EHESS/INRIA/PSL Research University, Paris
+\item    Barbara Plank - IT University of Copenhagen
+\item    Paola Merlo - University of Geneva
+\item     Adam Przepiórkowski - University of Warsaw / Polish Academy of Sciences / University of Oxford
+
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Practical matters}
+\begin{itemize}
+\item Wifi
+\begin{itemize}
+\item eduroam
+\item login= {\bf p3-monde-anglo} / password= {\bf cnu-2019}
+\end{itemize}
+
+\item Lunches are provided each (if you paid)
+\item Gala dinner:
+\begin{itemize}
+\item Wednesday, 19:30
+\item {\bf La Barge du CROUS de Paris} (see the map on SyntaxFest website)
+\item Quai François Mauriac, Port de la Gare, 75013 Paris
+\item {\bf by metro}: Line 14, stop at "Bibliothèque", go down the "rue de Tolbiac" down to the Seine, the "barge" is a little bit on the left. 
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}{}
+Thank you - Merci\\
+Enjoy the first SyntaxFest ever
+\end{frame}
+
+
+
+%% \frame{
+%% \tiny
+%% \bibliographystyle{taln2002}
+%% \bibliography{./bibjabref}
+%% }
+
+
+\newcounter{lastframe}
+\setcounter{lastframe}{\insertframenumber}
+\setbeamertemplate{footline}[default]  % vide
+
+
+
+\setcounter{framenumber}{\thelastframe}
+
+
+\end{document}

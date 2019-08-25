@@ -1,0 +1,57 @@
+% Copyleft 2010 by Luc Boruta
+%
+% This file may be distributed and/or modified
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+
+\mode<presentation>
+
+\usepackage{ifthen}
+
+\setbeamertemplate{navigation symbols}{}
+
+% Appendix tweak
+\newcommand\micro@appendix{Appendix}
+\newcounter{finalframe}%
+\newboolean{micro@inappendix}%
+\let\micro@plainappendix\appendix%
+\renewcommand{\appendix}{%
+	\micro@plainappendix%
+	\setcounter{finalframe}{\value{framenumber}}%
+	\section*{\micro@appendix}%
+	\setboolean{micro@inappendix}{true}%
+	\setcounter{framenumber}{0}%
+}
+\newcommand\documentend{\setcounter{framenumber}{\value{finalframe}}}
+\AtEndDocument{%
+	\documentend% Useless!
+}
+
+% Footer
+\newcommand\breadcrumbmark{~$\rangle$~}
+\newcommand\authorseparator{~$\vert$~}
+\newcommand\pageseparator{~/~}
+\defbeamertemplate*{footline}{micro theme}
+{%
+  \leavevmode\hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1ex]{palette primary}%
+    \hspace*{2ex}%
+%	{\usebeamerfont{author in head/foot}\insertshortauthor}%
+%	\authorseparator%
+    {\usebeamerfont{title in head/foot}\insertshorttitle}%
+    \ifx\insertsectionhead\@empty\else%
+    	\breadcrumbmark{\usebeamerfont{title in head/foot}\insertsectionhead}%
+    	\ifx\insertsubsectionhead\@empty\else%
+    		\breadcrumbmark{\usebeamerfont{title in head/foot}\insertsubsectionhead}%
+    	\fi%
+    \fi%
+    \hfill\insertframenumber%
+%    \ifthenelse{\boolean{micro@inappendix}}{}{\pageseparator\inserttotalframenumber}%
+    \hspace*{2ex}%
+  \end{beamercolorbox}}%
+}
+
+% Frame title continuations, default
+%\defbeamertemplate*{frametitle continuation}{micro theme}{(\insertcontinuationcount)}
+
+\mode<all>
