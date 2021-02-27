@@ -16,4 +16,4 @@ include:
 theme: jekyll-theme-minimal
 title: [SyntaxFest]
 description: [The SyntaxFest brings together four events in syntactic research]
-logo: [images/logo.png]
+# logo: [images/logo.png]
