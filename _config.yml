@@ -15,5 +15,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-minimal
 title: [SyntaxFest]
-description: [The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing]
+description: [The SyntaxFest brings together four events in syntactic research]
 logo: [images/logo.png]
