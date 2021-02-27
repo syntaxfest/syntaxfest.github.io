@@ -18,5 +18,5 @@ title: SyntaxFest
 description: [The SyntaxFest brings together four events in syntactic research]
 logo: images/logo.png
 logosofia: images/syntaxfest.sofia.2021.png
-highlighter: pygments.rb
+highlighter: rouge
 gems: [jekyll-paginate]
