@@ -14,6 +14,9 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-minimal
-title: [SyntaxFest]
+title: SyntaxFest
 description: [The SyntaxFest brings together four events in syntactic research]
-# logo: [images/logo.png]
+logo: images/logo.png
+logosofia: images/syntaxfest.sofia.2021.png
+highlighter: pygments.rb
+gems: [jekyll-paginate]
