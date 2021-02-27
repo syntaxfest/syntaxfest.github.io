@@ -15,8 +15,8 @@
     <div class="wrapper">
       <header>
 	
-        <h1><a href="{{ "/" | absolute_url }}">
-<img src="images/syntaxfest.sofia.2021.png" alt="Syntaxfest Sofia 2021" />
+        <h1><a href="{{ "/syntaxfest21" | absolute_url }}">
+	<img src="images/syntaxfest.sofia.2021.png" alt="Syntaxfest Sofia 2021" />
 	</a></h1>
 	<p>{{ site.description | default: site.github.project_tagline }}</p>
 	<p>The individual conference sites:</p>
@@ -29,10 +29,8 @@
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+	<br>
+        <p class="view"><a href="..">SyntaxFest Homepage</a></p>
 
         {% if site.show_downloads %}
         <ul>
