@@ -8,4 +8,4 @@ The SyntaxFest brings together four events with partially overlapping research t
 
 The first edition was held in Paris in August 2019: [SyntaxFest19](https://syntaxfest.github.io/syntaxfest19/)
 
-The second edition will be held in Sofia in November 2021:  [SyntaxFest21](https://syntaxfest.github.io/syntaxfest21/
+The second edition will be held in Sofia in November 2021:  [SyntaxFest21](https://syntaxfest.github.io/syntaxfest21/)
