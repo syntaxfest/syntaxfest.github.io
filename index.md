@@ -6,7 +6,7 @@ title: Home
 
 The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing:
 * Quasy : The Workshop on Quantitative Syntax
-* Depling : The Conference on Dependency Linguistics
+* [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * TLT : The International Workshop on Treebanks and Linguistic Theories 
 * UDW : The Universal Dependencies Workshop
 
