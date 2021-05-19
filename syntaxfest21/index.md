@@ -14,7 +14,7 @@ title: Home
 
 [![SyntaxFest Sofia 2021](images/sofia.png)](https://syntaxfest.github.io/syntaxfest21/)
 
-The next and second edition will be held in Sofia in November 2021:  [SyntaxFest21](https://syntaxfest.github.io/syntaxfest21/)
+The next and second edition will be held in Sofia from 21 March to 25 March 2022:  [SyntaxFest21](https://syntaxfest.github.io/syntaxfest21/)
 
 The first edition was held in Paris in August 2019: [SyntaxFest19](https://syntaxfest.github.io/syntaxfest19/)
 
