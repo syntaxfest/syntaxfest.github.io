@@ -12,7 +12,7 @@ The SyntaxFest brings together four events with partially overlapping research t
 
 [![SyntaxFest Sofia 2021](/images/syntaxfest.sofia.png)](syntaxfest21/)
 
-The next and second edition will be held in Sofia in November 2021:  [SyntaxFest21 Sofia](https://syntaxfest.github.io/syntaxfest21/)
+The next and second edition will be held in Sofia from 21 to 25 March 2022:  [SyntaxFest21 Sofia](https://syntaxfest.github.io/syntaxfest21/)
 
 The first edition was held in Paris in August 2019: [SyntaxFest19 Paris](syntaxfest19/)
 
