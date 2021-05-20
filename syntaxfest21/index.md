@@ -18,9 +18,6 @@ The next and second edition will be held in Sofia from 21 March to 25 March 2022
 
 The first edition was held in Paris in August 2019: [SyntaxFest19](https://syntaxfest.github.io/syntaxfest19/)
 
-![Sofia. Photo by Georgi Kyurpanov, Unsplash](images/georgi-kyurpanov-QhwHINkYStI-unsplash.jpg)
-<small>Photo by <a href="https://unsplash.com/@genkography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Georgi Kyurpanov</a> on <a href="https://unsplash.com/s/photos/sofia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
-
 ![Sofia. Photo by Ivan Nedelchev, Unsplash](images/ivan-nedelchev-OENyTAi9dg0-unsplash.jpg)
 <small>Photo by<a href="https://unsplash.com/@inedelchev?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivan Nedelchev</a> on <a href="https://unsplash.com/s/photos/sofia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
 
