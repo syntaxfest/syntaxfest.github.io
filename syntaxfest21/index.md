@@ -17,7 +17,8 @@ The next and second edition will be held in Sofia from 21 March to 25 March 2022
 
 ### Venue
 
-The event will be held at [Sofia University "St. Kl. Ohridski"](https://www.uni-sofia.bg/index.php/eng)
+The event will be held at [Sofia University "St. Kl. Ohridski"](https://www.uni-sofia.bg/index.php/eng).
+Photo by Petya Osenova.
 
 ![Sofia University. Photo by Petya Osenova](images/su-4.jpg)
 
