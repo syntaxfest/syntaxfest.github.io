@@ -8,7 +8,7 @@ The SyntaxFest brings together four events with partially overlapping research t
 * Quasy : The Workshop on Quantitative Syntax
 * [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * TLT : The International Workshop on Treebanks and Linguistic Theories 
-* UDW : The Universal Dependencies Workshop
+* [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
 [![SyntaxFest Sofia 2021](/images/syntaxfest.sofia.png)](syntaxfest21/)
 
