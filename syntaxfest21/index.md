@@ -10,7 +10,7 @@ title: Home
 * Quasy : The Workshop on Quantitative Syntax
 * [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * TLT : The International Workshop on Treebanks and Linguistic Theories 
-* UDW : The Universal Dependencies Workshop
+* [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
 
 The next and second edition will be held in Sofia from 21 March to 25 March 2022
