@@ -13,7 +13,7 @@ title: Home
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
 
-The next and second edition will be held in Sofia from 21 March to 25 March 2022
+The next and second edition will be held in Sofia from 21 March to 25 March 2022.
 
 ### Venue
 
