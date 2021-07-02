@@ -7,7 +7,7 @@ title: Home
 ### 4 events for 1 Fest of Empirical Syntax
 
  The second edition of the SyntaxFest brings together again four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing:
-* Quasy : The Workshop on Quantitative Syntax
+* [Quasy](https://quasy-2021.webnode.cz/) : The Workshop on Quantitative Syntax
 * [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * TLT : The International Workshop on Treebanks and Linguistic Theories 
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
