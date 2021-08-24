@@ -79,6 +79,9 @@ The chairs for each event are:
 - Miryam de Lhoneux, Uppsala University - KU Leuven - University of Copenhagen
 - Reut Tsarfaty, Bar-Ilan University - AI2
 
+### Program committee
+
+You can look at the list of our PC members at [Depling site](https://depling.org/depling2021/). See section **SyntaxFest 2021 Program committee**.
 
 ### Local organizing committee
 
