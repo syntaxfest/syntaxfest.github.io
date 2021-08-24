@@ -26,6 +26,29 @@ The next and second edition will be held in Sofia from 21 March to 25 March 2022
 
 _Attendants are encouraged but not obliged to participate in the whole SyntaxFest._
 
+### Paper submission information
+
+#### Submission page
+Papers must be submitted in PDF format exclusively through the SyntaxFest 
+[joint submission page](
+https://easychair.org/account/signin?l=VPFgF6PmIlLQNqOKTkIMtL#)
+
+
+#### Paper length
+We invite two types of submissions: long papers and short papers.
+- Long papers may consist of up to 10 pages of content (excluding references);
+- Short papers may consist of up to 6 pages of content (excluding references).
+
+#### Style guidelines
+All submissions should follow the common SyntaxFest 2021 stylesheet (based on the one-column COLING 2020 style guidelines). Stylesheets are provided as LaTeX style file and Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files are downloadable from [Depling site](https://depling.org/depling2021/). See section **Style guidelines**
+
+#### Double-blind reviews
+
+Reviewing of papers will be double-blind. Therefore, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Zeng, 2018) ...", must be avoided. Instead, use citations such as "Zeng (2018) previously showed ...". Papers that do not conform to these requirements will be rejected without review.
+
+#### Proceedings
+For the authors’s convenience, despite the conference being held in March 2022, the Proceedings of Depling 2021 will be published in December 2021 in the ACL Anthology.
+
 ### Shared reviewing process
 
 On the [submission site](
