@@ -17,14 +17,14 @@ The next and second edition will be held in Sofia from 21 March to 25 March 2022
 
 ### Important Dates
 
-* Announcement of conference modality: 06 Sep. 2021
-* Submission deadlines for long and short papers: 27 Sep. 2021 
-* Acceptance notification: 10 Nov. 2021
-* Camera-ready version: 30 Nov. 2021
-* Proceedings Publication: December 2021
-* SyntaxFest Event: 21st–25th March 2022
+* **Announcement of conference modality:** 06 Sep. 2021
+* **Submission deadlines for long and short papers:** 27 Sep. 2021 
+* **Acceptance notification:** 10 Nov. 2021
+* **Camera-ready version:** 30 Nov. 2021
+* **Proceedings Publication:** December 2021
+* **SyntaxFest Event:** 21st–25th March 2022
 
-Attendants are encouraged but not obliged to participate in the whole SyntaxFest.
+_Attendants are encouraged but not obliged to participate in the whole SyntaxFest._
 
 ### Shared reviewing process
 
