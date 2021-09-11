@@ -31,7 +31,7 @@ _Attendants are encouraged but not obliged to participate in the whole SyntaxFes
 #### Submission page
 Papers must be submitted in PDF format exclusively through the SyntaxFest 
 [joint submission page](
-https://easychair.org/account/signin?l=VPFgF6PmIlLQNqOKTkIMtL#)
+https://easychair.org/conferences/?conf=syntaxfest2021)
 
 
 #### Paper length
