@@ -17,7 +17,8 @@ The next and second edition will be held in Sofia from 21 March to 25 March 2022
 
 ### Important Dates
 
-* **Submission deadline for long and short papers:** [EXTENDED] 11 Oct. 2021, AoE timezone
+* **Submission deadline for long and short papers:**
+[_EXTENDED_] 11 Oct. 2021, AoE
 * **Acceptance notification:** 10 Nov. 2021
 * **Camera-ready version:** 30 Nov. 2021
 * **Proceedings Publication:** December 2021
