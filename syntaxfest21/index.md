@@ -16,7 +16,7 @@ title: Home
 The next and second edition will be held in a hybrid mode: online and in Sofia. Both venues will be communicated later.
 
 ### Proceedings
-Proceedings will be published in December 2021 and will be added to the ACL Anthology.
+For the authors’s convenience, despite the conference being held in March 2022, the Proceedings of Depling 2021 will be published in December 2021 in the ACL Anthology.
 
 ### Registration
 
@@ -58,9 +58,6 @@ All submissions should follow the common SyntaxFest 2021 stylesheet (based on th
 #### Double-blind reviews
 
 Reviewing of papers will be double-blind. Therefore, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Zeng, 2018) ...", must be avoided. Instead, use citations such as "Zeng (2018) previously showed ...". Papers that do not conform to these requirements will be rejected without review.
-
-#### Proceedings
-For the authors’s convenience, despite the conference being held in March 2022, the Proceedings of Depling 2021 will be published in December 2021 in the ACL Anthology.
 
 ### Shared reviewing process
 
