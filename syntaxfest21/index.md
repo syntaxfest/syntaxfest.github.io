@@ -2,7 +2,7 @@
 layout: sofia
 title: Home
 ---
-# The Syntaxfest 2021 in Sofia
+# The Syntaxfest 2021 in Sofia (will be held from 21 March to 25 March 2022)
 
 ### 4 events for 1 Fest of Empirical Syntax
 
@@ -12,17 +12,28 @@ title: Home
 * [TLT](https://tlt2021.phil.hhu.de/) : The International Workshop on Treebanks and Linguistic Theories 
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
+### Modality
+The next and second edition will be held in a hybrid mode: online and in Sofia. Both venues will be communicated later.
 
-The next and second edition will be held in Sofia from 21 March to 25 March 2022.
+### Proceedings
+Proceedings will be published in December 2021 and will be added to the ACL Anthology.
+
+### Registration
+
+Registration is not open yet.
+Registration will be done in two steps:
+
+1. After the evaluation process, all participants will have to register for the online event (reduced registration costs).
+2. Approximately one month before the conference, participants will be offered to decide whether they want to come to Sofia or not, if the health situation allows it. Additional costs will be charged in accordance.
 
 ### Important Dates
 
 * **Submission deadline for long and short papers:**<br>
-[_EXTENDED_] 11 Oct. 2021, AoE
-* **Acceptance notification:** 10 Nov. 2021
-* **Camera-ready version:** 30 Nov. 2021
+[_EXTENDED_] 11 October 2021, AoE
+* **Acceptance notification:** 10 November 2021
+* **Camera-ready version:** 5 December 2021
 * **Proceedings Publication:** December 2021
-* **Announcement of conference modality:** February 2022
+* **Conference modality:** Hybrid
 * **SyntaxFest Event:** 21st–25th March 2022
 
 _Attendants are encouraged but not obliged to participate in the whole SyntaxFest._
