@@ -16,7 +16,7 @@ title: Home
 The next and second edition will be held in a hybrid mode: online and in Sofia. Both venues will be communicated later.
 
 ### Proceedings
-For the authors’s convenience, despite the conference being held in March 2022, the Proceedings of Depling 2021 will be published in December 2021 in the ACL Anthology.
+For the authors’s convenience, despite the conference being held in March 2022, the Proceedings of Syntaxfest 2021 will be published in December 2021 in the ACL Anthology.
 
 ### Registration
 
