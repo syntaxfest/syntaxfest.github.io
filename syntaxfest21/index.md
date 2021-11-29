@@ -14,19 +14,22 @@ title: Home
 
 ### Registration
 
-* [SyntaxFest Registration Link](https://www.softconf.com/ranlp2021/ranlp2021reg) is now OPEN.
+[SyntaxFest Registration Link](https://www.softconf.com/ranlp2021/ranlp2021reg) is now OPEN.
 
 SyntaxFest is planned as a hybrid event, but due to the dynamics of the COVID-19 pandemic, we might have to revert to online-only. 
 For this reason, **ONLY the online fee of 50 EUR** has to be paid upon registration. 
+
 This fee has to be paid by at least one author per accepted paper for the paper to be included in the Proceedings. 
-The deadline for this is 10 December 2021. For the cancellation policy that applies to other participants, please see the information
+The deadline for this is _December 10, 2021_. 
+
+For the cancellation policy that applies to other participants, please see the information
 in the registration form.
 
 If the situation permits a hybrid mode and thus, participants in Sofia,
 onsite participants will be asked to pay an additional fee.
 
 Please note that the registration can be performed **only for all days of SyntaxFest**. It is not possible to register for half a week or one/two workshops.
-Please also note that the payment system is external to the registration, thus you will receive the confirmation document later on, in a few days.
+Please also note that the payment system is external to the registration, thus you will receive the confirmation document later on, possibly in a few days.
 
 
 ### Modality
