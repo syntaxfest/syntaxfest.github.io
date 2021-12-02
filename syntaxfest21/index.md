@@ -16,7 +16,7 @@ title: Home
 
 [SyntaxFest Registration Link](https://www.softconf.com/ranlp2021/ranlp2021reg) is now OPEN.
 
-> For any questions, related to the payments, please write to the following email: syntaxfest@acl-bg.org
+> For any questions, related to the payments, please write to the following email: ** syntaxfest@acl-bg.org **
 
 SyntaxFest is planned as a hybrid event, but due to the dynamics of the COVID-19 pandemic, we might have to revert to online-only. 
 
