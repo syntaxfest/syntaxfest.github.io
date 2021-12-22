@@ -40,7 +40,12 @@ Please also note that the payment system is external to the registration, thus y
 The next and second edition will be held in a hybrid mode: online and in Sofia. Both venues will be communicated later.
 
 ### Proceedings
-For the authors’s convenience, despite the conference being held in March 2022, the Proceedings of Syntaxfest 2021 will be published in December 2021 in the ACL Anthology.
+Although SyntaxFest will be held in March 2022, the proceedings will be published well ahead of time in the ACL Anthology. Preliminary versions of all four volumes can already be downloaded here:
+
+* [Depling 2021](proceedings/DepLing-2021.pdf)
+* [Quasy 2021](proceedings/Quasy-2021.pdf)
+* [TLT 2021](proceedings/TLT-2021.pdf)
+* [UDW 2021](proceedings/UDW-2021.pdf)
 
 ### Registration
 
