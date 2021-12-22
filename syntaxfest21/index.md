@@ -42,10 +42,10 @@ The next and second edition will be held in a hybrid mode: online and in Sofia. 
 ### Proceedings
 Although SyntaxFest will be held in March 2022, the proceedings will be published well ahead of time in the ACL Anthology. Preliminary versions of all four volumes can already be downloaded here:
 
-* [Depling 2021](proceedings/DepLing_2021.pdf)
-* [Quasy 2021](proceedings/QuaSy_2021.pdf)
-* [TLT 2021](proceedings/TLT_2021.pdf)
-* [UDW 2021](proceedings/UDW_2021.pdf)
+* [Depling 2021](proceedings/DepLing-2021.pdf)
+* [Quasy 2021](proceedings/Quasy-2021.pdf)
+* [TLT 2021](proceedings/TLT-2021.pdf)
+* [UDW 2021](proceedings/UDW-2021.pdf)
 
 ### Registration
 
