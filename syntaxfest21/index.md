@@ -14,30 +14,22 @@ title: Home
 
 ### Registration
 
-[SyntaxFest Registration Link](https://www.softconf.com/ranlp2021/ranlp2021reg) is now OPEN.
+[SyntaxFest Registration Link](https://www.softconf.com/ranlp2021/ranlp2021reg) is **OPEN**.
 
 > For any questions, related to the payments, please write to the following email: **syntaxfest@acl-bg.org**
 
-SyntaxFest is planned as a hybrid event, but due to the dynamics of the COVID-19 pandemic, we might have to revert to online-only. 
+Please note that due to the pandemic dynamics SyntaxFest goes fully **ONLINE**. 
 
-For this reason, **ONLY the online fee of 50 EUR** has to be paid upon registration. 
-
-This fee has to be paid by at least one author per accepted paper for the paper to be included in the Proceedings. 
-The deadline for this is _December 10, 2021_. 
+For this reason, **ONLY the online fee of 50 EUR** has to be paid upon registration for the whole event. 
 
 For the cancellation policy that applies to other participants, please see the information
 in the registration form.
-
-If the situation permits a hybrid mode and thus, participants in Sofia,
-onsite participants will be asked to pay an additional fee.
-
-Please note that the registration can be performed **only for all days of SyntaxFest**. It is not possible to register for half a week or one/two workshops.
 
 Please also note that the payment system is external to the registration, thus you will receive the confirmation document later on, possibly in a few days.
 
 
 ### Modality
-The next and second edition will be held in a hybrid mode: online and in Sofia. Both venues will be communicated later.
+The next and second edition will be held online.
 
 ### Proceedings
 Although SyntaxFest will be held in March 2022, the proceedings will be published well ahead of time in the ACL Anthology. Preliminary versions of all four volumes can already be downloaded here:
@@ -47,22 +39,14 @@ Although SyntaxFest will be held in March 2022, the proceedings will be publishe
 * [TLT 2021](proceedings/TLT-2021.pdf)
 * [UDW 2021](proceedings/UDW-2021.pdf)
 
-### Registration
-
-Registration is not open yet.
-Registration will be done in two steps:
-
-1. After the evaluation process, all participants will have to register for the online event (reduced registration costs).
-2. Approximately one month before the conference, participants will be offered to decide whether they want to come to Sofia or not, if the health situation allows it. Additional costs will be charged in accordance.
-
 ### Important Dates
 
 * **Submission deadline for long and short papers:**<br>
-[_EXTENDED_] 11 October 2021, AoE
-* **Acceptance notification:** 10 November 2021
-* **Camera-ready version:** 5 December 2021
-* **Proceedings Publication:** December 2021
-* **Conference modality:** Hybrid
+[_EXTENDED_] <strike>11 October 2021, AoE</strike>
+* **Acceptance notification:** <strike>10 November 2021</strike>
+* **Camera-ready version:** <strike>5 December 2021</strike>
+* **Proceedings Publication:** <strike>December 2021</strike>
+* **Conference modality:** ONLINE
 * **SyntaxFest Event:** 21st–25th March 2022
 
 _Attendants are encouraged but not obliged to participate in the whole SyntaxFest._
