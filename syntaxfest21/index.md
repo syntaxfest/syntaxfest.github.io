@@ -150,6 +150,9 @@ _Towards a consistent annotation of nominal person in Universal Dependencies_
 Stefano Lusito and Jean Maillard\
 _A Universal Dependencies corpus for Ligurian_
 
+Rob van der Goot and Miryam de Lhoneux\
+_Dataset Embeddings for Polyglot Language Model-based Parsers_
+
 #### UDW
 
 Rahul Krishnamurthy and Michael Hsiao\
@@ -190,6 +193,9 @@ _Numerals and what counts_
 
 Anna Nedoluzhko, Michal Novak, Martin Popel, Zdenek Zabokrtsky and Daniel Zeman\
 _Is one head enough? Mention heads in coreference annotations compared with UD-style heads_
+
+Nathan Schneider and Amir Zeldes\
+_Mischievous nominal constructions in Universal Dependencies_
 
 
 ### <a name="registration"> Registration </a>
