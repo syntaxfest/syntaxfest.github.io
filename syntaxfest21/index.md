@@ -37,11 +37,22 @@ title: Home
 
 ### <a name="talks"> Invited talks </a>
 
-* Jinho Choi, Emory University: Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability
-* Jennifer Foster, Dublin City University: Treebanking and Parsing for Irish
-* Richard Futrell, University of California, Irvine: TBA
-* Sylvain Kahane, Université Paris Nanterre: Quantitative studies on tree bank collections: Complexity, universals, and typological signature
-* Emily Pitler, Google: Incorporating Compositionality and Morphology into End-to-End Models
+* [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html), Emory University: Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability
+
+> In this talk, I will present a new semantic representation, WISeR, that overcomes challenges for Abstract Meaning Representation (AMR). Despite its strengths, AMR is not easily applied to languages or domains without predefined semantic frames, and its use of numbered arguments results in semantic role labels not directly interpretable and semantically overloaded for parsers. We examine the numbered arguments of predicates in AMR and convert them into thematic roles which do not require reference to semantic frames. We create a new corpus of 1K English dialogue sentences annotated in both WISeR and AMR. WISeR shows stronger inter-annotator agreement for beginner and experienced annotators, with beginners becoming proficient in WISeR annotation more quickly. Finally, we train a state-of-the-art parser on the AMR 3.0 corpus and a WISeR corpus converted from AMR 3.0. The parser is evaluated on these corpora and our dialogue corpus. The WISeR model exhibits higher accuracy than its AMR counterpart across the board, demonstrating that WISeR is easier for parsers to learn.
+
+* [Jennifer Foster](https://www.computing.dcu.ie/~jfoster/), Dublin City University: Treebanking and Parsing for Irish
+
+> In this talk I will discuss recent work on treebanking and parsing for the Irish language, carried out by researchers in the Natural Language Processing group in the School of Computing in DCU. The first part of the talk will be devoted to TwittIrish, a treebank of tweets annotated according to the Universal Dependencies (UD) guidelines. I will discuss phenomena associated with this particular language/genre pair which can make the annotation process challenging, including the way in which the language found in Irish tweets differs from standard Irish, and the effect of English. I will present and analyse the results of parsing TwittIrish using state-of-the-art neural dependency parsers trained on the Irish Universal Dependencies treebank. This will lead on to the second part of the talk in which an Irish BERT language model, gaBERT, will be presented. Design decisions taken in training gaBERT will be presented, and the model will be compared to multilingual BERT on the task of UD dependency parsing and using a manual cloze-test evaluation.
+
+* [Richard Futrell](http://socsci.uci.edu/~rfutrell/), University of California, Irvine: An Information-Theoretic Perspective on Dependency Trees
+
+> I give an overview of some recent work taking a corpus-based, information-theoretic view on problems of dependency grammar. First, I argue for a connection between syntactic dependencies and the information-theoretic notion of mutual information, a measure of how strongly two words constrain each other, which allows us to quantify the “strength” of the link between a dependent and its head. Next, I present theoretical motivations and empirical evidence for information locality: a generalization of dependency length minimization which holds that words are under a pressure to be close to each other in word order in proportion to their mutual information. Finally I present evidence that crosslinguistic word orders reflect optimization for recoverability of dependency relations from strings of words.
+
+* [Sylvain Kahane](https://kahane.fr/), Université Paris Nanterre: Quantitative studies on tree bank collections: Complexity, universals, and typological signature
+* [Emily Pitler](http://www.emilypitler.com/), Google: Incorporating Compositionality and Morphology into End-to-End Models
+
+> Many neural end-to-end systems today do not rely on syntactic parse trees, as much of the information that parse trees provide is encoded in the parameters of pretrained models. Lessons learned from parsing technologies and from taking a multilingual perspective, however, are still relevant even for end-to-end models. This talk will describe work that relies on compositionality in semantic parsing and in reading comprehension requiring numerical reasoning. We’ll then describe a released dataset that requires advances in multilingual modeling, and some approaches designed to better model morphology than off-the-shelf subword models that make some progress on these challenges.
  
 
 ### <a name="registration"> Registration </a>
