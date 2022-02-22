@@ -2,7 +2,7 @@
 layout: sofia
 title: Home
 ---
-# The Syntaxfest 2021 in Sofia (will be held from 21 March to 25 March 2022)
+# The Syntaxfest 2021 in Sofia (will be held from 21 March to 24 March 2022)
 
 ### 4 events for 1 Fest of Empirical Syntax
 
@@ -11,6 +11,16 @@ title: Home
 * [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * [TLT](https://tlt2021.phil.hhu.de/) : The International Workshop on Treebanks and Linguistic Theories 
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
+
+
+### Invited talks
+
+* Jinho Choi, Emory University: Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability
+* Jennifer Foster, Dublin City University: Treebanking and Parsing for Irish
+* Richard Futrell, University of California, Irvine: TBA
+* Sylvain Kahane, Université Paris Nanterre: Quantitative studies on tree bank collections: Complexity, universals, and typological signature
+* Emily Pitler, Google: Incorporating Compositionality and Morphology into End-to-End Models
+ 
 
 ### Registration
 
