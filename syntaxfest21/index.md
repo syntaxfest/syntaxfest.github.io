@@ -23,6 +23,7 @@ title: Home
     Contents on this page
   </summary>
 - [Invited talks](#talks) 
+- [List of accepted papers](#accepted)
 - [Registration](#registration) 
 - [Modality](#modality)
 - [Proceedings](#proceedings)
@@ -53,7 +54,143 @@ title: Home
 * [Emily Pitler](http://www.emilypitler.com/), Google: Incorporating Compositionality and Morphology into End-to-End Models
 
 > Many neural end-to-end systems today do not rely on syntactic parse trees, as much of the information that parse trees provide is encoded in the parameters of pretrained models. Lessons learned from parsing technologies and from taking a multilingual perspective, however, are still relevant even for end-to-end models. This talk will describe work that relies on compositionality in semantic parsing and in reading comprehension requiring numerical reasoning. We’ll then describe a released dataset that requires advances in multilingual modeling, and some approaches designed to better model morphology than off-the-shelf subword models that make some progress on these challenges.
- 
+
+### <a name="accepted"> List of accepted papers </a>
+
+#### Quasy
+
+Daniel Zeman\
+_Date and Time in Universal Dependencies_
+
+Guy Lapalme\
+_Validation of Universal Dependencies by regeneration_
+
+Mehmet Oguz Derin\
+_Universal Dependencies for Old Turkish_
+
+Jasmina Milicevic\
+_Causation (and Some Other) Paraphrasing Patterns in L1 English. A Case Study_
+
+András Imrényi\
+_A monarchy without subjects: on Brassai’s (almost) subject-free dependency grammar_
+
+Ramon Ferrer-i-Cancho and Carlos Gómez-Rodríguez\
+_Dependency distance minimization predicts compression_
+
+Erica Biagetti\
+_The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond_
+
+Johanna M. Poppek, Simon Masloch and Tibor Kiss\
+_A Quantitative Approach towards German Experiencer-Object Verbs_
+
+#### Depling
+
+Mai Omura, Aya Wakasa and Masayuki Asahara\
+_Word Delimitation Issues in UD Japanese_
+
+Sylvain Kahane, Bernard Caron, Kim Gerdes and Emmett Strickland\
+_Annotation guidelines of UD and SUD treebanks for spoken corpora_
+
+Ruochen Niu, Yaqin Wang and Haitao Liu\
+_The properties of rare and complex syntactic constructions in English. A corpus-based comparative study_
+
+Magali Duran, Adriana Pagano, Amanda Rassi and Thiago Pardo\
+_On auxiliary verb in Universal Dependencies: untangling the issue and proposing a systematized annotation strategy_
+
+Hee-Soo Choi, Bruno Guillaume and Karën Fort\
+_Corpus-based language universals analysis using Universal Dependencies_
+
+Kilian Evang, Tatiana Bladier, Laura Kallmeyer and Simon Petitjean\
+_Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies_
+
+Flavio Massimiliano Cecchini\
+_Formae reformandae: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin_
+
+Kim Gerdes, Bruno Guillaume, Sylvain Kahane and Guy Perrier\
+_Starting a new treebank? Go SUD!_
+
+Sylvain Kahane, Martine Vanhove and Rayan Ziane\
+_A morpheme-based treebank for Beja_
+
+Rolando Coto-Solano, Sofía Flores-Solórzano and Sharid Loáiciga\
+_Towards Universal Dependencies for Bribri_
+
+Adam Farris and Aryaman Arora\
+_For the Purpose of Curry: A UD Treebank for Ashokan Prakrit_
+
+#### TLT
+
+Pierre André Ménard, Naïma Hassert and Edith Galy\
+_UD on Software Requirements: Application and Challenges_
+
+Max Müller-Eberstein, Rob van der Goot and Barbara Plank\
+_How Universal is Genre in Universal Dependencies?_
+
+Kaius Sinnemäki and Akira Takaki\
+_Number agreement, dependency length, and word order in Finnish traditional dialects_
+
+Maarten Janssen\
+_UDWiki: guiding the creation of new UD treebanks_
+
+Dag T. T. Haug and Jamie Y. Findlay\
+_Enhanced Universal Dependencies and semantic interpretation_
+
+Lluís Alemany-Puig, Juan Luis Esteban and Ramon Ferrer-i-Cancho\
+_The Linear Arrangement Library. A new tool for research on syntactic dependency structures_
+
+Sharefah Alghamdi, Hend Alkhalifa and Abdulmalik Al-Salman\
+_A Dependency Treebank for Classical Arabic Poetry_
+
+Nicolas Mazziotta\
+_Drawing the syntactic space: choices in diagrammatic reasoning_
+
+Georg Höhn\
+_Towards a consistent annotation of nominal person in Universal Dependencies_
+
+Stefano Lusito and Jean Maillard\
+_A Universal Dependencies corpus for Ligurian_
+
+#### UDW
+
+Rahul Krishnamurthy and Michael Hsiao\
+_BINGO: A Dependency Grammar Framework to Understand Hardware Specifications Written in English_
+
+Sophie Prévost, Loïc Grobol and Benoit Crabbé\
+_Is Old French tougher to parse?_
+
+Dmytro Kalpakchi and Johan Boye\
+_Minor changes make a difference: a case study on the consistency of UD-based dependency parsers_
+
+Diego Fernando Válio Antunes Alves, Božo Bekavac and Marko Tadic\
+_Typological Approach to Improve Dependency Parsing for Croatian Language_
+
+Jingting Yuan and John S. Y. Lee\
+_Discourse Complexity Measures for EFL Writing_
+
+Aleksandrs Berdicevskis\
+_Successes and failures of Menzerath's law at the syntactic level_
+
+Konstantinos Sampanis and Prokopis Prokopidis\
+_Asia Minor Greek in Contact (AMGiC): A dialectal Treebank comprising contact-induced grammatical changes_
+
+Ján Mačutek, Radek Čech and Marine Courtin\
+_The Menzerath-Altmann law in syntactic structure revisited_
+
+Miroslav Kubát and Radek Čech\
+_Attributivity and Subjectivity in Contemporary Written Czech_
+
+Nikolas Gisborne\
+_Loops—or mutual dependency and Word Grammar: headedness in the noun phrase_
+
+Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran\
+_Towards Building a Modern Written Tamil Treebank_
+
+Jack Rueter, Niko Partanen and Flammie Pirinen\
+_Numerals and what counts_
+
+Anna Nedoluzhko, Michal Novak, Martin Popel, Zdenek Zabokrtsky and Daniel Zeman\
+_Is one head enough? Mention heads in coreference annotations compared with UD-style heads_
+
 
 ### <a name="registration"> Registration </a>
 
