@@ -2,6 +2,10 @@
 layout: sofia
 title: Home
 ---
+
+<!-- * TOC
+{:toc} -->
+
 # The Syntaxfest 2021 in Sofia (will be held from 21 March to 24 March 2022)
 
 ### 4 events for 1 Fest of Empirical Syntax
@@ -12,8 +16,26 @@ title: Home
 * [TLT](https://tlt2021.phil.hhu.de/) : The International Workshop on Treebanks and Linguistic Theories 
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
+-----
 
-### Invited talks
+<details open markdown="block">
+  <summary>
+    Contents on this page
+  </summary>
+- [Invited talks](#talks) 
+- [Registration](#registration) 
+- [Modality](#modality)
+- [Proceedings](#proceedings)
+- [Important Dates](#dates)
+- [Paper submission information](#instructions)
+- [Shared reviewing process](#review)
+- [Chairs](#chairs)
+- [Program committee](#committee)
+- [Venue](#venue)
+</details>
+-----
+
+### <a name="talks"> Invited talks </a>
 
 * Jinho Choi, Emory University: Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability
 * Jennifer Foster, Dublin City University: Treebanking and Parsing for Irish
@@ -22,7 +44,7 @@ title: Home
 * Emily Pitler, Google: Incorporating Compositionality and Morphology into End-to-End Models
  
 
-### Registration
+### <a name="registration"> Registration </a>
 
 [SyntaxFest Registration Link](https://www.softconf.com/ranlp2021/ranlp2021reg) is **OPEN**.
 
@@ -38,10 +60,10 @@ in the registration form.
 Please also note that the payment system is external to the registration, thus you will receive the confirmation document later on, possibly in a few days.
 
 
-### Modality
+### <a name="modality"> Modality </a>
 The next and second edition will be held online. The following platforms will be used: **ZOOM** and **Gather town**.
 
-### Proceedings
+### <a name="proceedings"> Proceedings </a>
 Although SyntaxFest will be held in March 2022, the proceedings will be published well ahead of time in the ACL Anthology. Preliminary versions of all four volumes can already be downloaded here:
 
 * [Depling 2021](proceedings/DepLing-2021.pdf)
@@ -49,7 +71,7 @@ Although SyntaxFest will be held in March 2022, the proceedings will be publishe
 * [TLT 2021](proceedings/TLT-2021.pdf)
 * [UDW 2021](proceedings/UDW-2021.pdf)
 
-### Important Dates
+### <a name="dates"> Important dates </a>
 
 * **Submission deadline for long and short papers:**<br>
 [_EXTENDED_] <strike>11 October 2021, AoE</strike>
@@ -61,7 +83,7 @@ Although SyntaxFest will be held in March 2022, the proceedings will be publishe
 
 _Attendants are encouraged but not obliged to participate in the whole SyntaxFest._
 
-### Paper submission information
+### <a name="instructions"> Paper submission information </a>
 
 #### Submission page
 Papers must be submitted in PDF format exclusively through the SyntaxFest 
@@ -82,12 +104,12 @@ All submissions should follow the common SyntaxFest 2021 stylesheet (based on th
 
 Reviewing of papers will be double-blind. Therefore, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Zeng, 2018) ...", must be avoided. Instead, use citations such as "Zeng (2018) previously showed ...". Papers that do not conform to these requirements will be rejected without review.
 
-### Shared reviewing process
+### <a name="review"> Shared reviewing process </a>
 
 On the [submission site](
 https://easychair.org/conferences/?conf=syntaxfest2021), authors submit their paper only once for the whole SyntaxFest, composed of 4 conferences, but they can uncheck conferences they do not wish their paper to be considered for. If the paper is deemed appropriate for more than one of the selected conferences, the SyntaxFest joint organization committee decides on the final placement of the paper, which implies the day of the presentation and the proceedings the paper will appear in.
 
-### Chairs
+### <a name="chairs"> Chairs </a>
 
 The chairs for each event are:
 
@@ -112,19 +134,19 @@ The chairs for each event are:
 - Miryam de Lhoneux, Uppsala University - KU Leuven - University of Copenhagen
 - Reut Tsarfaty, Bar-Ilan University - AI2
 
-### Program committee
+### <a name="committee"> Program committee </a>
 
 You can look at the list of our PC members at [Depling site](https://depling.org/depling2021/). See section _SyntaxFest 2021 Program committee_.
 
-### Local organizing committee
+### <a name="local"> Local organizing committee </a>
 
 - Petya Osenova, Sofia University "St. Kl. Ohridski" and IICT-BAS
 - Kiril Simov, IICT-BAS
 
 
-### Venue
+### <a name="venue"> Venue </a>
 
-The event will be held at [Sofia University "St. Kl. Ohridski"](https://www.uni-sofia.bg/index.php/eng).
+The event will be held ONLINE but with the flavour of [Sofia University "St. Kl. Ohridski"](https://www.uni-sofia.bg/index.php/eng).
 Photo by Petya Osenova.
 
 ![Sofia University. Photo by Petya Osenova](images/su-4.jpg)
