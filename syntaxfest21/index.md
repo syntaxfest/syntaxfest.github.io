@@ -121,7 +121,7 @@ _Number agreement, dependency length, and word order in Finnish traditional dial
 
 #### TLT
 
-Diego Fernando Válio Antunes Alves, Božo Bekavac and Marko Tadic\
+Diego Fernando Válio Antunes Alves, Božo Bekavac and Marko Tadić\
 _Typological Approach to Improve Dependency Parsing for Croatian Language_
 
 Erica Biagetti\
