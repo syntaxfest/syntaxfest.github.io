@@ -62,11 +62,20 @@ title: Home
 Lluís Alemany-Puig, Juan Luis Esteban and Ramon Ferrer-i-Cancho\
 _The Linear Arrangement Library. A new tool for research on syntactic dependency structures_
 
+Aleksandrs Berdicevskis\
+_Successes and failures of Menzerath's law at the syntactic level_
+
 Hee-Soo Choi, Bruno Guillaume and Karën Fort\
 _Corpus-based language universals analysis using Universal Dependencies_
 
 Ramon Ferrer-i-Cancho and Carlos Gómez-Rodríguez\
 _Dependency distance minimization predicts compression_
+
+Miroslav Kubát, Radek Čech and Xinying Chen\
+_Attributivity and Subjectivity in Contemporary Written Czech_
+
+Ján Mačutek, Radek Čech and Marine Courtin\
+_The Menzerath-Altmann law in syntactic structure revisited_
 
 Ruochen Niu, Yaqin Wang and Haitao Liu\
 _The properties of rare and complex syntactic constructions in English. A corpus-based comparative study_
@@ -74,126 +83,112 @@ _The properties of rare and complex syntactic constructions in English. A corpus
 Johanna M. Poppek, Simon Masloch and Tibor Kiss\
 _A Quantitative Approach towards German Experiencer-Object Verbs_
 
-Kaius Sinnemäki and Akira Takaki\
-_Number agreement, dependency length, and word order in Finnish traditional dialects_
-
-Diego Fernando Válio Antunes Alves, Božo Bekavac and Marko Tadic\
-_Typological Approach to Improve Dependency Parsing for Croatian Language_
-
-Aleksandrs Berdicevskis\
-_Successes and failures of Menzerath's law at the syntactic level_
-
-Ján Mačutek, Radek Čech and Marine Courtin\
-_The Menzerath-Altmann law in syntactic structure revisited_
-
-Miroslav Kubát and Radek Čech\
-_Attributivity and Subjectivity in Contemporary Written Czech_
-
-
 #### Depling
-
 
 Sharefah Alghamdi, Hend Alkhalifa and Abdulmalik Al-Salman\
 _A Dependency Treebank for Classical Arabic Poetry_
 
-András Imrényi\
-_A monarchy without subjects: on Brassai’s (almost) subject-free dependency grammar_
-
-Jasmina Milicevic\
-_Causation (and Some Other) Paraphrasing Patterns in L1 English. A Case Study_
-
 Magali Duran, Adriana Pagano, Amanda Rassi and Thiago Pardo\
 _On auxiliary verb in Universal Dependencies: untangling the issue and proposing a systematized annotation strategy_
+
+Jamie Y. Findlay and Dag T. T. Haug\
+_Enhanced Universal Dependencies and semantic interpretation_
 
 Kim Gerdes, Bruno Guillaume, Sylvain Kahane and Guy Perrier\
 _Starting a new treebank? Go SUD!_
 
-Rolando Coto-Solano, Sofía Flores-Solórzano and Sharid Loáiciga\
-_Towards Universal Dependencies for Bribri_
+Nikolas Gisborne\
+_Loops—or mutual dependency and Word Grammar: headedness in the noun phrase_
 
-Dag T. T. Haug and Jamie Y. Findlay\
-_Enhanced Universal Dependencies and semantic interpretation_
-
-Nicolas Mazziotta\
-_Drawing the syntactic space: choices in diagrammatic reasoning_
+András Imrényi\
+_A monarchy without subjects: on Brassai’s (almost) subject-free dependency grammar_
 
 Rahul Krishnamurthy and Michael Hsiao\
 _BINGO: A Dependency Grammar Framework to Understand Hardware Specifications Written in English_
 
-Nikolas Gisborne\
-_Loops—or mutual dependency and Word Grammar: headedness in the noun phrase_
+Nicolas Mazziotta\
+_Drawing the syntactic space: choices in diagrammatic reasoning_
 
-Anna Nedoluzhko, Michal Novak, Martin Popel, Zdenek Zabokrtsky and Daniel Zeman\
+Jasmina Milićević\
+_Causation (and Some Other) Paraphrasing Patterns in L1 English. A Case Study_
+
+Anna Nedoluzhko, Michal Novák, Martin Popel, Zdeněk Žabokrtský and Daniel Zeman\
 _Is one head enough? Mention heads in coreference annotations compared with UD-style heads_
+
+Kaius Sinnemäki and Akira Takaki\
+_Number agreement, dependency length, and word order in Finnish traditional dialects_
 
 
 #### TLT
 
-Sylvain Kahane, Martine Vanhove and Rayan Ziane\
-_A morpheme-based treebank for Beja_
-
-Sylvain Kahane, Bernard Caron, Kim Gerdes and Emmett Strickland\
-_Annotation guidelines of UD and SUD treebanks for spoken corpora_
+Diego Fernando Válio Antunes Alves, Božo Bekavac and Marko Tadic\
+_Typological Approach to Improve Dependency Parsing for Croatian Language_
 
 Erica Biagetti\
 _The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond_
 
-Daniel Zeman\
-_Date and Time in Universal Dependencies_
-
-Max Müller-Eberstein, Rob van der Goot and Barbara Plank\
-_How Universal is Genre in Universal Dependencies?_
-
-Rob van der Goot and Miryam de Lhoneux\
-_Dataset Embeddings for Polyglot Language Model-based Parsers_
-
-Sophie Prévost, Loïc Grobol and Benoit Crabbé\
+Loïc Grobol, Sophie Prévost and Benoit Crabbé\
 _Is Old French tougher to parse?_
 
-Jingting Yuan and John S. Y. Lee\
-_Discourse Complexity Measures for EFL Writing_
+Sylvain Kahane, Bernard Caron, Emmett Strickland and Kim Gerdes\
+_Annotation guidelines of UD and SUD treebanks for spoken corpora_
 
-Konstantinos Sampanis and Prokopis Prokopidis\
-_Asia Minor Greek in Contact (AMGiC): A dialectal Treebank comprising contact-induced grammatical changes_
+Sylvain Kahane, Martine Vanhove and Rayan Ziane\
+_A morpheme-based treebank for Beja_
 
 Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran\
 _Towards Building a Modern Written Tamil Treebank_
 
+Max Müller-Eberstein, Rob van der Goot and Barbara Plank\
+_How Universal is Genre in Universal Dependencies?_
+
+Konstantinos Sampanis and Prokopis Prokopidis\
+_Asia Minor Greek in Contact (AMGiC): A dialectal Treebank comprising contact-induced grammatical changes_
+
+Rob van der Goot and Miryam de Lhoneux\
+_Dataset Embeddings for Polyglot Language Model-based Parsers_
+
+Jingting Yuan, Qiuhan Lin and John S. Y. Lee\
+_Discourse Complexity Measures for EFL Writing_
+
 
 #### UDW
 
-Stefano Lusito and Jean Maillard\
-_A Universal Dependencies corpus for Ligurian_
+Flavio Massimiliano Cecchini\
+_Formae reformandae: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin_
 
-Georg Höhn\
+Rolando Coto-Solano, Sharid Loáiciga and Sofía Flores-Solórzano\
+_Towards Universal Dependencies for Bribri_
+
+Kilian Evang, Tatiana Bladier, Laura Kallmeyer and Simon Petitjean\
+_Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies_
+
+Adam Farris and Aryaman Arora\
+_For the Purpose of Curry: A UD Treebank for Ashokan Prakrit_
+
+Naïma Hassert, Pierre André Ménard and Edith Galy\
+_UD on Software Requirements: Application and Challenges_
+
+Georg F.K. Höhn\
 _Towards a consistent annotation of nominal person in Universal Dependencies_
 
 Maarten Janssen\
 _UDWiki: guiding the creation of new UD treebanks_
 
-Pierre André Ménard, Naïma Hassert and Edith Galy\
-_UD on Software Requirements: Application and Challenges_
-
-Adam Farris and Aryaman Arora\
-_For the Purpose of Curry: A UD Treebank for Ashokan Prakrit_
-
-Flavio Massimiliano Cecchini\
-_Formae reformandae: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin_
-
-Kilian Evang, Tatiana Bladier, Laura Kallmeyer and Simon Petitjean\
-_Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies_
-
-Mai Omura, Aya Wakasa and Masayuki Asahara\
-_Word Delimitation Issues in UD Japanese_
-
-Mehmet Oguz Derin\
-_Universal Dependencies for Old Turkish_
+Dmytro Kalpakchi and Johan Boye\
+_Minor changes make a difference: a case study on the consistency of UD-based dependency parsers_
 
 Guy Lapalme\
 _Validation of Universal Dependencies by regeneration_
 
-Dmytro Kalpakchi and Johan Boye\
-_Minor changes make a difference: a case study on the consistency of UD-based dependency parsers_
+Stefano Lusito and Jean Maillard\
+_A Universal Dependencies corpus for Ligurian_
+
+Mehmet Oguz Derin and Takahiro Harada\
+_Universal Dependencies for Old Turkish_
+
+Mai Omura, Aya Wakasa and Masayuki Asahara\
+_Word Delimitation Issues in UD Japanese_
 
 Jack Rueter, Niko Partanen and Flammie Pirinen\
 _Numerals and what counts_
@@ -201,6 +196,8 @@ _Numerals and what counts_
 Nathan Schneider and Amir Zeldes\
 _Mischievous nominal constructions in Universal Dependencies_
 
+Daniel Zeman\
+_Date and Time in Universal Dependencies_
 
 ### <a name="registration"> Registration </a>
 
