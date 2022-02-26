@@ -65,20 +65,20 @@ All talks and the poster session will take place on Gather. The link will be sha
 
 ### 23 March 2022
 
-| UTC | CET | Session |
-|:------|:------|:----------------------------|
-|09:50	|10:50 | [Quasy](https://quasy-2021.webnode.cz/) talks |
-|13:00	|14:00	| Joint SyntaxFest poster session |
-|15:00	|16:00	| [UDW](https://universaldependencies.org/udw21/) talks |
-|18:20	|19:20	| End of day |
+  | UTC | CET | Session |
+  |:------|:------|:----------------------------|
+  |09:50	|10:50 | [Quasy](https://quasy-2021.webnode.cz/) talks |
+  |13:00	|14:00	| Joint SyntaxFest poster session |
+  |15:00	|16:00	| [UDW](https://universaldependencies.org/udw21/) talks |
+  |18:20	|19:20	| End of day |
 
 
 ### 24 March 2022
 
-| UTC	|CET	| Session |
-|:------|:------|:----------------------------|
-|TBD |TBD | Discussions, social |
-|TBD |TBD | End of SyntaxFest |
+  | UTC	|CET	| Session |
+  |:------|:------|:----------------------------|
+  |TBD |TBD | Discussions, social |
+  |TBD |TBD | End of SyntaxFest |
 
 
 ### <a name="talks"> Invited talks </a>
