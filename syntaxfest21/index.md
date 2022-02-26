@@ -42,7 +42,7 @@ title: Home
 
 All talks and the poster session will take place on Gather. The link will be shared with registered participants shortly.
 
- ### 21 March 2022
+### 21 March 2022
  
    | UTC | CET | Session |
    |:------|:------|:----------------------------|
@@ -56,11 +56,11 @@ All talks and the poster session will take place on Gather. The link will be sha
 |:------|:------|:----------------------------|
 |09:50 |10:50 |TLT Opening |
 |10:00 |11:00 |TLT talks |
- |11:40|	12:40	|Coffee break |
+|11:40 |12:40	|Coffee break |
 |12:00	|13:00	|TLT invited talk |
-|13:00	|14:00	|Joint SyntaxFest poster session|
-|15:00 |16:00 |[Depling](https://depling.org/depling2021/) talks|
-|18:20 |19:20| End of day |
+|13:00	|14:00	|Joint SyntaxFest poster session |
+|15:00 |16:00 |[Depling](https://depling.org/depling2021/) talks |
+|18:20 |19:20 | End of day |
 
 
 ### 23 March 2022
