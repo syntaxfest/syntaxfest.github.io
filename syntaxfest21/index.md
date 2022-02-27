@@ -57,11 +57,49 @@ All talks and the poster session will take place on Gather. The link will be sha
   |:------|:------|:----------------------------|
   |09:50 |10:50 | TLT Opening |
   |10:00 |11:00 | TLT talks |
+  |      |      | Talks are 15 minutes + 5 minutes for discussion |
+  |      |      | Session chairs: TBD |
+  |      |      | The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond |
+  |      |      | *Erica Biagetti* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.2/)] |
+  |      |      | Annotation guidelines of UD and SUD treebanks for spoken corpora: A proposal |
+  |      |      | *Sylvain Kahane, Bernard Caron, Kim Gerdes and Emmett Strickland* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.4/)] |
+  |      |      | How Universal is Genre in Universal Dependencies? |
+  |      |      | *Max Müller-Eberstein, Rob van der Goot and Barbara Plank* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.7/)] |
+  |      |      | Discourse Tree Structure and Dependency Distance in EFL Writing |
+  |      |      | *Jingting Yuan, Qiuhan Lin and John S. Y. Lee* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.10/)] |
+  |      |      | Asia Minor Greek in Contact (AMGiC): Towards a dialectal Treebank comprising contact-induced grammatical changes |
+  |      |      | *Konstantinos Sampanis and Prokopis Prokopidis* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.8/)] |
   |11:40 |12:40	| Coffee break |
-  |12:00	|13:00	| TLT invited talk |
-  |13:00	|14:00	| Joint SyntaxFest poster session |
+  |12:00 |13:00	| TLT invited talk |
+  |      |      | Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability |
+  |      |      | *Jinho Choi* |
+  |      |      | Session chair: TBD |
+  |13:00 |14:00	| Joint SyntaxFest poster session |
+  |      |      | The following TLT papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
+  |      |      | We encourage authors to present them on both days. |
+  |      |      | A morph-based and a word-based treebank for Beja |
+  |      |      | *Sylvain Kahane, Martine Vanhove, Rayan Ziane and Bruno Guillaume* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.5/)] |
+  |      |      | Is Old French tougher to parse? |
+  |      |      | *Loïc Grobol, Sophie Prévost and Benoit Crabbé* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.3/)] |
+  |      |      | Typological Approach to Improve Dependency Parsing for Croatian Language |
+  |      |      | *Diego Fernando Válio Antunes Alves, Božo Bekavac and Marko Tadić* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.1/)] |
+  |      |      | Parsing with Pretrained Language Models, Multiple Datasets, and Dataset Embeddings |
+  |      |      | *Rob van der Goot and Miryam de Lhoneux* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.9/)] |
+  |      |      | Towards Building a Modern Written Tamil Treebank |
+  |      |      | *Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran* |
+  |      |      | [[paper](https://aclanthology.org/2021.tlt-1.6/)] |
   |15:00 |16:00 | [Depling](https://depling.org/depling2021/) talks |
   |18:20 |19:20 | End of day |
+
 
 ### 23 March 2022
 
