@@ -104,7 +104,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | *Richard Futrell* |
   |              | Session chair: TBD |
   |16:00 - 16:20 | Coffee break |
-  |16:20 - 16:40 | A monarchy without subjects: on Brassai’s (almost) subject-free dependency grammar |
+  |16:20 - 16:40 | A monarchy without subjects: on Brassai's (almost) subject-free dependency grammar |
   |              | *András Imrényi* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.6/)] |
   |16:40 - 17:00 | Loops - or mutual dependency and Word Grammar: headedness in the noun phrase |
