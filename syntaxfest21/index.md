@@ -97,6 +97,22 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | Towards Building a Modern Written Tamil Treebank |
   |              | *Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.6/)] |
+  |              | The following Depling papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
+  |              | Number agreement, dependency length, and word order in Finnish traditional dialects |
+  |              | *Kaius Sinnemäki and Akira Takaki* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.11/)] |
+  |              | A Dependency Treebank for Classical Arabic Poetry |
+  |              | *Sharefah Alghamdi, Hend Alkhalifa and Abdulmalik Al-Salman* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.1/)] |
+  |              | On auxiliary verb in Universal Dependencies: untangling the issue and proposing a systematized annotation strategy |
+  |              | *Magali Duran, Adriana Pagano, Amanda Rassi and Thiago Pardo* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.2/)] |
+  |              | Drawing the syntactic space: choices in diagrammatic reasoning |
+  |              | *Nicolas Mazziotta* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.8/)] |
+  |              | BINGO: A Dependency Grammar Framework to Understand Hardware Specifications Written in English |
+  |              | *Rahul Krishnamurthy and Michael Hsiao* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.7/)] |
   |15:00 - 18:20 | [Depling](https://depling.org/depling2021/) talks |
   |15:00 - 15:10 | Introduction |
   |15:10 - 16:00 | Depling Invited Talk |
