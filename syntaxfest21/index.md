@@ -147,7 +147,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |:------|:----------------------------|
   |09:50 - 13:00 | [Quasy](https://quasy-2021.webnode.cz/) talks |
   |13:00 - 15:00	| Joint SyntaxFest poster session |
-  |              | All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for TLT posters. |
+  |              | All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters. |
   |15:00	- 18:20	| [UDW](https://universaldependencies.org/udw21/) talks |
  
 
