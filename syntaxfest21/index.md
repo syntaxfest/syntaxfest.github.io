@@ -113,6 +113,16 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | BINGO: A Dependency Grammar Framework to Understand Hardware Specifications Written in English |
   |              | *Rahul Krishnamurthy and Michael Hsiao* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.7/)] |
+  |              | The following Quasy papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
+  |              | The Linear Arrangement Library. A new tool for research on syntactic dependency structures |
+  |              | *Lluís Alemany-Puig, Juan Luis Esteban and Ramon Ferrer-i-Cancho* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.1/)] |
+  |              | Attributivity and Subjectivity in Contemporary Written Czech |
+  |              | *Miroslav Kubát, Radek Čech and Xinying Chen* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.5/)] |
+  |              | The Menzerath-Altmann law in syntactic structure revisited |
+  |              | *Ján Mačutek, Radek Čech and Marine Courtin* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.6/)] |
   |15:00 - 18:20 | [Depling](https://depling.org/depling2021/) talks |
   |15:00 - 15:10 | Introduction |
   |15:10 - 16:00 | Depling Invited Talk |
@@ -137,7 +147,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | [[paper](https://aclanthology.org/2021.depling-1.3/)] |
   |18:00 - 18:20 | Causation (and Some Other) Paraphrasing Patterns in L1 English. A Case Study |
   |              | *Jasmina Milićević* |
-  |              | [[paper](https://aclanthology.org/2021.depling-1.9//)] |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.9/)] |
   
 
 
@@ -146,6 +156,29 @@ All talks and the poster session will take place on Gather. The link will be sha
   | Time (UTC) | Session |
   |:------|:----------------------------|
   |09:50 - 13:00 | [Quasy](https://quasy-2021.webnode.cz/) talks |
+  |09:50 - 10:00 | Quasy Opening |
+  |10:00 - 11:40 | Talks are 15 minutes + 5 minutes for discussion |
+  |              | Session chairs: TBD |
+  |              | Dependency distance minimization predicts compression |
+  |              | *Ramon Ferrer-i-Cancho and Carlos Gómez-Rodríguez* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.4/)] |
+  |              | Corpus-based language universals analysis using Universal Dependencies |
+  |              | *Hee-Soo Choi, Bruno Guillaume and Karën Fort* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.3/)] |
+  |              | Successes and failures of Menzerath's law at the syntactic level |
+  |              | *Aleksandrs Berdicevskis* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.2/)] |
+  |              | The properties of rare and complex syntactic constructions in English. A corpus-based comparative study |
+  |              | *Ruochen Niu, Yaqin Wang and Haitao Liu* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.7/)] |
+  |              | A Quantitative Approach towards German Experiencer-Object Verbs |
+  |              | *Johanna M. Poppek, Simon Masloch and Tibor Kiss* |
+  |              | [[paper](https://aclanthology.org/2021.quasy-1.8/)] |
+  |11:40 - 12:00 | Coffee break |
+  |12:00 - 13:00 | Quasy invited talk |
+  |              | Quantitative studies on tree bank collections: Complexity, universals, and typological signature |
+  |              | *Sylvain Kahane* |
+  |              | Session chair: TBD |
   |13:00 - 15:00	| Joint SyntaxFest poster session |
   |              | All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters. |
   |15:00	- 18:20	| [UDW](https://universaldependencies.org/udw21/) talks |
