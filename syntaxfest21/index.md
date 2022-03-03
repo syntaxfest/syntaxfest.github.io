@@ -53,7 +53,7 @@ All talks and the poster session will take place on Gather. The link will be sha
    
 ### 22 March 2022
 
-  | UTC | Session |
+  | Time (UTC) | Session |
   |:------|:----------------------------|
   |09:50 - 10:00 | TLT Opening |
   |10:00 - 11:40 | TLT talks |
@@ -103,7 +103,7 @@ All talks and the poster session will take place on Gather. The link will be sha
 
 ### 23 March 2022
 
-  | UTC | Session |
+  | Time (UTC) | Session |
   |:------|:----------------------------|
   |09:50 - 13:00 | [Quasy](https://quasy-2021.webnode.cz/) talks |
   |13:00 - 15:00	| Joint SyntaxFest poster session |
@@ -113,7 +113,7 @@ All talks and the poster session will take place on Gather. The link will be sha
 
 ### 24 March 2022
 
-  | UTC	| Session |
+  | Time (UTC)	| Session |
   |:------|:----------------------------|
   |TBD | Discussions, closing, social |
  
