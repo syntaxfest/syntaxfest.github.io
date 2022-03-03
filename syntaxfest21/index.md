@@ -56,7 +56,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   | Time (UTC) | Session |
   |:------|:----------------------------|
   |09:50 - 10:00 | TLT Opening |
-  |10:00 - 11:40 | TLT talks |
+  |10:00 - 11:40 | [TLT](https://tlt2021.phil.hhu.de/) talks |
   |              | Talks are 15 minutes + 5 minutes for discussion |
   |              | Session chairs: TBD |
   |              | The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond |
@@ -98,6 +98,30 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | *Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.6/)] |
   |15:00 - 18:20 | [Depling](https://depling.org/depling2021/) talks |
+  |15:00 - 15:10 | Introduction |
+  |15:10 - 16:00 | Depling Invited Talk |
+  |              | An Information-Theoretic Perspective on Dependency Trees |
+  |              | *Richard Futrell* |
+  |              | Session chair: TBD |
+  |16:00 - 16:20 | Coffee break |
+  |16:20 - 16:40 | A monarchy without subjects: on Brassai’s (almost) subject-free dependency grammar |
+  |              | *András Imrényi* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.6/)] |
+  |16:40 - 17:00 | Loops - or mutual dependency and Word Grammar: headedness in the noun phrase |
+  |              | *Nikolas Gisborne* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.5/)] |
+  |17:00 - 17:20 | Is one head enough? Mention heads in coreference annotations compared with UD-style heads |
+  |              | *Anna Nedoluzhko, Michal Novák, Martin Popel, Zdeněk Žabokrtský and Daniel Zeman* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.10/)] |
+  |17:20 - 17:40 | Starting a new treebank? Go SUD! |
+  |              | *Kim Gerdes, Bruno Guillaume, Sylvain Kahane and Guy Perrier* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.4/)] |
+  |17:40 - 18:00 | Enhanced Universal Dependencies and semantic interpretation |
+  |              | *Dag T. T. Haug and Jamie Y. Findlay* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.3/)] |
+  |18:00 - 18:20 | Causation (and Some Other) Paraphrasing Patterns in L1 English. A Case Study |
+  |              | *Jasmina Milićević* |
+  |              | [[paper](https://aclanthology.org/2021.depling-1.9//)] |
   
 
 
