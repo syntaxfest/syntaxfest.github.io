@@ -46,19 +46,21 @@ All talks and the poster session will take place on Gather. The link will be sha
  
    | Time (UTC) | Session |
    |:------|:----------------------------|
-   |11:40 - 12:00 | SyntaxFest welcome |
-   |12:00 - 13:00 | SyntaxFest/TLT invited talk: Treebanking and Parsing for Irish |
+   |11:40 - 12:00 | **SyntaxFest welcome** |
+   |12:00 - 13:00 | **SyntaxFest/TLT invited talk** |
+   |              | Treebanking and Parsing for Irish |
    |              | *Jennifer Foster* |
-   |13:00 - 16:00 | Gather practice and social |
+   |              | _Session chairs: TBD_ |
+   |13:00 - 16:00 | **Gather practice and social** |
    
 ### 22 March 2022
 
   | Time (UTC) | Session |
   |:------|:----------------------------|
   |09:50 - 10:00 | TLT Opening |
-  |10:00 - 11:40 | [TLT](https://tlt2021.phil.hhu.de/) talks |
-  |              | Talks are 15 minutes + 5 minutes for discussion |
-  |              | Session chairs: TBD |
+  |10:00 - 11:40 | **[TLT](https://tlt2021.phil.hhu.de/) talks** |
+  |              | _Talks are 15 minutes + 5 minutes for discussion_ |
+  |              | _Session chairs: TBD_ |
   |              | The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond |
   |              | *Erica Biagetti* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.2/)] |
@@ -74,14 +76,14 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | Asia Minor Greek in Contact (AMGiC): Towards a dialectal Treebank comprising contact-induced grammatical changes |
   |              | *Konstantinos Sampanis and Prokopis Prokopidis* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.8/)] |
-  |11:40 - 12:00	| Coffee break |
-  |12:00 - 13:00	| TLT invited talk |
+  |11:40 - 12:00	| **Coffee break** |
+  |12:00 - 13:00	| **TLT invited talk** |
   |              | Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability |
   |              | *Jinho Choi* |
-  |              | Session chair: TBD |
-  |13:00 - 15:00	| Joint SyntaxFest poster session |
-  |              | The following TLT papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
-  |              | We encourage authors to present them on both days. |
+  |              | _Session chair: TBD_ |
+  |13:00 - 15:00	| **Joint SyntaxFest poster session** |
+  |              | _The following **TLT papers** will be presented as posters. All posters will be on display on both 22 and 23 March._ |
+  |              | _We encourage authors to present them on both days._ |
   |              | A morph-based and a word-based treebank for Beja |
   |              | *Sylvain Kahane, Martine Vanhove, Rayan Ziane and Bruno Guillaume* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.5/)] |
@@ -97,8 +99,8 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | Towards Building a Modern Written Tamil Treebank |
   |              | *Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.6/)] |
-  |              | The following Depling papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
-  |              | We encourage authors to present them on both days. |
+  |              | _The following **Depling papers** will be presented as posters. All posters will be on display on both 22 and 23 March._ |
+  |              | _We encourage authors to present them on both days._ |
   |              | Number agreement, dependency length, and word order in Finnish traditional dialects |
   |              | *Kaius Sinnemäki and Akira Takaki* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.11/)] |
@@ -114,8 +116,8 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | BINGO: A Dependency Grammar Framework to Understand Hardware Specifications Written in English |
   |              | *Rahul Krishnamurthy and Michael Hsiao* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.7/)] |
-  |              | The following Quasy papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
-  |              | We encourage authors to present them on both days. |
+  |              | _The following **Quasy papers** will be presented as posters. All posters will be on display on both 22 and 23 March._ |
+  |              | _We encourage authors to present them on both days._ |
   |              | The Linear Arrangement Library. A new tool for research on syntactic dependency structures |
   |              | *Lluís Alemany-Puig, Juan Luis Esteban and Ramon Ferrer-i-Cancho* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.1/)] |
@@ -125,8 +127,8 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | The Menzerath-Altmann law in syntactic structure revisited |
   |              | *Ján Mačutek, Radek Čech and Marine Courtin* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.6/)] |
-  |              | The following UDW papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
-  |              | We encourage authors to present them on both days. |
+  |              | _The following **UDW papers** will be presented as posters. All posters will be on display on both 22 and 23 March._ |
+  |              | _We encourage authors to present them on both days._ |
   |              | Universal Dependencies for Old Turkish |
   |              | *Mehmet Oguz Derin* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.11/)] |
@@ -151,13 +153,13 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | Date and Time in Universal Dependencies |
   |              | *Daniel Zeman* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.15/)] |
-  |15:00 - 18:20 | [Depling](https://depling.org/depling2021/) talks |
-  |15:00 - 15:10 | Introduction |
-  |15:10 - 16:00 | Depling Invited Talk |
+  |15:00 - 18:20 | **[Depling](https://depling.org/depling2021/) talks** |
+  |15:00 - 15:10 | **Introduction** |
+  |15:10 - 16:00 | **Depling Invited Talk** |
   |              | An Information-Theoretic Perspective on Dependency Trees |
   |              | *Richard Futrell* |
   |              | Session chair: TBD |
-  |16:00 - 16:20 | Coffee break |
+  |16:00 - 16:20 | **Coffee break** |
   |16:20 - 16:40 | A monarchy without subjects: on Brassai's (almost) subject-free dependency grammar |
   |              | *András Imrényi* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.6/)] |
@@ -183,10 +185,10 @@ All talks and the poster session will take place on Gather. The link will be sha
 
   | Time (UTC) | Session |
   |:------|:----------------------------|
-  |09:50 - 13:00 | [Quasy](https://quasy-2021.webnode.cz/) talks |
-  |09:50 - 10:00 | Quasy Opening |
-  |10:00 - 11:40 | Talks are 15 minutes + 5 minutes for discussion |
-  |              | Session chairs: TBD |
+  |09:50 - 13:00 | **[Quasy](https://quasy-2021.webnode.cz/) talks** |
+  |09:50 - 10:00 | **Quasy Opening** |
+  |10:00 - 11:40 | _Talks are 15 minutes + 5 minutes for discussion._ |
+  |              | _Session chairs: TBD_ |
   |              | Dependency distance minimization predicts compression |
   |              | *Ramon Ferrer-i-Cancho and Carlos Gómez-Rodríguez* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.4/)] |
@@ -202,15 +204,15 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | A Quantitative Approach towards German Experiencer-Object Verbs |
   |              | *Johanna M. Poppek, Simon Masloch and Tibor Kiss* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.8/)] |
-  |11:40 - 12:00 | Coffee break |
-  |12:00 - 13:00 | Quasy invited talk |
+  |11:40 - 12:00 | **Coffee break** |
+  |12:00 - 13:00 | **Quasy invited talk** |
   |              | Quantitative studies on tree bank collections: Complexity, universals, and typological signature |
   |              | *Sylvain Kahane* |
-  |              | Session chair: TBD |
-  |13:00 - 15:00	| Joint SyntaxFest poster session |
-  |              | All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters. |
-  |15:00	- 18:20	| [UDW](https://universaldependencies.org/udw21/) talks |
-  |15:00 - 16:00 | Long talks |
+  |              | _Session chair: TBD_ |
+  |13:00 - 15:00	| **Joint SyntaxFest poster session** |
+  |              | _All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters._ |
+  |15:00	- 18:20	| **[UDW](https://universaldependencies.org/udw21/) talks** |
+  |15:00 - 16:00 | **Long talks** |
   |              | Mischievous nominal constructions in Universal Dependencies |
   |              | *Nathan Schneider and Amir Zeldes* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.14/)] |
@@ -223,8 +225,8 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | Validation of Universal Dependencies by regeneration |
   |              | *Guy Lapalme* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.9/)] |
-  |16:00 - 16:10 | Coffee break |
-  |16:10 - 16:40 | Short talks |
+  |16:00 - 16:10 | **Coffee break** |
+  |16:10 - 16:40 | **Short talks** |
   |              | Towards a consistent annotation of nominal person in Universal Dependencies |
   |              | *Georg Höhn* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.6/)] |
@@ -233,12 +235,12 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | [[paper](https://aclanthology.org/2021.udw-1.8/)] |
   |              | Formae reformandae: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin |
   |              | *Flavio Massimiliano Cecchini* |
-  |              |  [[paper](https://aclanthology.org/2021.udw-1.1/)] |
-  |16:40 - 17:00 | Coffee break |
-  |17:00 - 18:00 | UDW invited talk |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.1/)] |
+  |16:40 - 17:00 | **Coffee break** |
+  |17:00 - 18:00 | **UDW invited talk** |
   |              | Incorporating Compositionality and Morphology into End-to-End Model |
   |              | *Emily Pitler* |
-  |              | Session chair: TBD |
+  |              | _Session chair: TBD_ |
   
   
  
