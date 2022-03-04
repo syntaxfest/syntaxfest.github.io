@@ -210,6 +210,37 @@ All talks and the poster session will take place on Gather. The link will be sha
   |13:00 - 15:00	| Joint SyntaxFest poster session |
   |              | All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters. |
   |15:00	- 18:20	| [UDW](https://universaldependencies.org/udw21/) talks |
+  |15:00 - 16:00 | Long talks |
+  |              | Mischievous nominal constructions in Universal Dependencies |
+  |              | *Nathan Schneider and Amir Zeldes* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.14/)] |
+  |              | UD on Software Requirements: Application and Challenges |
+  |              | *Pierre André Ménard, Naïma Hassert and Edith Galy* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.5/)] |
+  |              | Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies |
+  |              | *Kilian Evang, Tatiana Bladier, Laura Kallmeyer and Simon Petitjean* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.3/)] |
+  |              | Validation of Universal Dependencies by regeneration |
+  |              | *Guy Lapalme* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.9/)] |
+  |16:00 - 16:10 | Coffee break |
+  |16:10 - 16:40 | Short talks |
+  |              | Towards a consistent annotation of nominal person in Universal Dependencies |
+  |              | *Georg Höhn* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.6/)] |
+  |              | Minor changes make a difference: a case study on the consistency of UD-based dependency parsers |
+  |              | *Dmytro Kalpakchi and Johan Boye* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.8/)] |
+  |              | Formae reformandae: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin |
+  |              | *Flavio Massimiliano Cecchini* |
+  |              |  [[paper](https://aclanthology.org/2021.udw-1.1/)] |
+  |16:40 - 17:00 | Coffee break |
+  |17:00 - 18:00 | UDW invited talk |
+  |              | Incorporating Compositionality and Morphology into End-to-End Model |
+  |              | *Emily Pitler* |
+  |              | Session chair: TBD |
+  
+  
  
 
 ### 24 March 2022
