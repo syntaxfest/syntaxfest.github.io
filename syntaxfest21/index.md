@@ -433,7 +433,7 @@ Please also note that the payment system is external to the registration, thus y
 
 
 ### <a name="modality"> Modality </a>
-The next and second edition will be held online. The following platforms will be used: **ZOOM** and **Gather town**.
+The next and second edition will be held online. The following platform will be used: **Gather town** (with **ZOOM** as only back-up).
 
 ### <a name="proceedings"> Proceedings </a>
 Although SyntaxFest will be held in March 2022, the proceedings will be published well ahead of time in the ACL Anthology. Preliminary versions of all four volumes can already be downloaded here:
