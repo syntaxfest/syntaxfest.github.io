@@ -98,6 +98,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | *Parameswari Krishnamurthy and Kengatharaiyer Sarveswaran* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.6/)] |
   |              | The following Depling papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
+  |              | We encourage authors to present them on both days. |
   |              | Number agreement, dependency length, and word order in Finnish traditional dialects |
   |              | *Kaius Sinnemäki and Akira Takaki* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.11/)] |
@@ -114,6 +115,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | *Rahul Krishnamurthy and Michael Hsiao* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.7/)] |
   |              | The following Quasy papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
+  |              | We encourage authors to present them on both days. |
   |              | The Linear Arrangement Library. A new tool for research on syntactic dependency structures |
   |              | *Lluís Alemany-Puig, Juan Luis Esteban and Ramon Ferrer-i-Cancho* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.1/)] |
@@ -123,6 +125,32 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | The Menzerath-Altmann law in syntactic structure revisited |
   |              | *Ján Mačutek, Radek Čech and Marine Courtin* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.6/)] |
+  |              | The following UDW papers will be presented as posters. All posters will be on display on both 22 and 23 March. |
+  |              | We encourage authors to present them on both days. |
+  |              | Universal Dependencies for Old Turkish |
+  |              | *Mehmet Oguz Derin* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.11/)] |
+  |              | Word Delimitation Issues in UD Japanese |
+  |              | *Mai Omura, Aya Wakasa and Masayuki Asahara* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.12/)] |
+  |              | UDWiki: guiding the creation of new UD treebanks |
+  |              | *Maarten Janssen* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.7/)] |
+  |              | A Universal Dependencies corpus for Ligurian |
+  |              | *Stefano Lusito and Jean Maillard* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.10/)] |
+  |              | Towards Universal Dependencies for Bribri |
+  |              | *Rolando Coto-Solano, Sofía Flores-Solórzano and Sharid Loáiciga* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.2/)] |
+  |              | For the Purpose of Curry: A UD Treebank for Ashokan Prakri |
+  |              | *Adam Farris and Aryaman Arora* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.4/)] |
+  |              | Numerals and what counts |
+  |              | *Jack Rueter, Niko Partanen and Flammie Pirine* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.13/)] |
+  |              | Date and Time in Universal Dependencies |
+  |              | *Daniel Zeman* |
+  |              | [[paper](https://aclanthology.org/2021.udw-1.15/)] |
   |15:00 - 18:20 | [Depling](https://depling.org/depling2021/) talks |
   |15:00 - 15:10 | Introduction |
   |15:10 - 16:00 | Depling Invited Talk |
