@@ -450,8 +450,8 @@ Although SyntaxFest will be held in March 2022, the proceedings will be publishe
 * **Acceptance notification:** <strike>10 November 2021</strike>
 * **Camera-ready version:** <strike>5 December 2021</strike>
 * **Proceedings Publication:** <strike>December 2021</strike>
-* **Conference modality:** ONLINE
-* **SyntaxFest Event:** 21st–25th March 2022
+* **Conference modality:** ONLINE on Gather
+* **SyntaxFest Event:** 21st–24th March 2022
 
 _Attendants are encouraged but not obliged to participate in the whole SyntaxFest._
 
