@@ -202,7 +202,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | *Ruochen Niu, Yaqin Wang and Haitao Liu* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.7/)] |
   |              | A Quantitative Approach towards German Experiencer-Object Verbs |
-  |              | *Johanna M. Poppek, Simon Masloch and Tibor Kiss* |
+  |              | *Johanna M. Poppek, Simon Masloch, Amelie Robrecht and Tibor Kiss* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.8/)] |
   |11:40 - 12:00 | **Coffee break** |
   |12:00 - 13:00 | **Quasy invited talk** |
