@@ -49,6 +49,7 @@ All talks and the poster session will take place on Gather. The link will be sha
    |11:40 - 12:00 | **SyntaxFest welcome** |
    |12:00 - 13:00 | **SyntaxFest/TLT invited talk** |
    |              | Treebanking and Parsing for Irish |
+   |              | *Jennifer Foster* |
    |              | *Teresa Lynn* |
    |              | _Session chairs: TBD_ |
    |13:00 - 16:00 | **Gather practice and social** |
