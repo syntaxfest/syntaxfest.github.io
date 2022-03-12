@@ -49,7 +49,7 @@ All talks and the poster session will take place on Gather. The link will be sha
    |11:40 - 12:00 | **SyntaxFest welcome** |
    |12:00 - 13:00 | **SyntaxFest/TLT invited talk** |
    |              | Treebanking and Parsing for Irish |
-   |              | *Jennifer Foster* |
+   |              | *Teresa Lynn* |
    |              | _Session chairs: TBD_ |
    |13:00 - 16:00 | **Gather practice and social** |
    
@@ -259,7 +259,7 @@ All talks and the poster session will take place on Gather. The link will be sha
 
 > In this talk, I will present a new semantic representation, WISeR, that overcomes challenges for Abstract Meaning Representation (AMR). Despite its strengths, AMR is not easily applied to languages or domains without predefined semantic frames, and its use of numbered arguments results in semantic role labels not directly interpretable and semantically overloaded for parsers. We examine the numbered arguments of predicates in AMR and convert them into thematic roles which do not require reference to semantic frames. We create a new corpus of 1K English dialogue sentences annotated in both WISeR and AMR. WISeR shows stronger inter-annotator agreement for beginner and experienced annotators, with beginners becoming proficient in WISeR annotation more quickly. Finally, we train a state-of-the-art parser on the AMR 3.0 corpus and a WISeR corpus converted from AMR 3.0. The parser is evaluated on these corpora and our dialogue corpus. The WISeR model exhibits higher accuracy than its AMR counterpart across the board, demonstrating that WISeR is easier for parsers to learn.
 
-* [Jennifer Foster](https://www.computing.dcu.ie/~jfoster/), Dublin City University: _Treebanking and Parsing for Irish_
+* [Jennifer Foster](https://www.dcu.ie/computing/people/jennifer-foster), Dublin City University: _Treebanking and Parsing for Irish_
 
 > In this talk I will discuss recent work on treebanking and parsing for the Irish language, carried out by researchers in the Natural Language Processing group in the School of Computing in DCU. The first part of the talk will be devoted to TwittIrish, a treebank of tweets annotated according to the Universal Dependencies (UD) guidelines. I will discuss phenomena associated with this particular language/genre pair which can make the annotation process challenging, including the way in which the language found in Irish tweets differs from standard Irish, and the effect of English. I will present and analyse the results of parsing TwittIrish using state-of-the-art neural dependency parsers trained on the Irish Universal Dependencies treebank. This will lead on to the second part of the talk in which an Irish BERT language model, gaBERT, will be presented. Design decisions taken in training gaBERT will be presented, and the model will be compared to multilingual BERT on the task of UD dependency parsing and using a manual cloze-test evaluation.
 
