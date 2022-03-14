@@ -51,7 +51,7 @@ All talks and the poster session will take place on Gather. The link will be sha
    |              | Treebanking and Parsing for Irish |
    |              | *Jennifer Foster* |
    |              | *Teresa Lynn* |
-   |              | _Session chairs: TBD_ |
+   |              | Session chairs: TBD |
    |13:00 - 16:00 | **Gather practice and social** |
    
 ### 22 March 2022
@@ -61,7 +61,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |09:50 - 10:00 | TLT Opening |
   |10:00 - 11:40 | **[TLT](https://tlt2021.phil.hhu.de/) talks** |
   |              | _Talks are 15 minutes + 5 minutes for discussion_ |
-  |              | _Session chairs: TBD_ |
+  |              | Session chairs: TBD |
   |              | The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond |
   |              | *Erica Biagetti* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.2/)] |
@@ -81,7 +81,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |12:00 - 13:00	| **TLT invited talk** |
   |              | Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability |
   |              | *Jinho Choi* |
-  |              | _Session chair: TBD_ |
+  |              | Session chair: TBD |
   |13:00 - 15:00	| **Joint SyntaxFest poster session** |
   |              | _The following **TLT papers** will be presented as posters. All posters will be on display on both 22 and 23 March._ |
   |              | _We encourage authors to present them on both days._ |
@@ -189,7 +189,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |09:50 - 13:00 | **[Quasy](https://quasy-2021.webnode.cz/) talks** |
   |09:50 - 10:00 | **Quasy Opening** |
   |10:00 - 11:40 | _Talks are 15 minutes + 5 minutes for discussion._ |
-  |              | _Session chairs: TBD_ |
+  |              | Session chairs: TBD |
   |              | Dependency distance minimization predicts compression |
   |              | *Ramon Ferrer-i-Cancho and Carlos Gómez-Rodríguez* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.4/)] |
@@ -209,7 +209,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |12:00 - 13:00 | **Quasy invited talk** |
   |              | Quantitative studies on tree bank collections: Complexity, universals, and typological signature |
   |              | *Sylvain Kahane* |
-  |              | _Session chair: TBD_ |
+  |              | Session chair: TBD |
   |13:00 - 15:00	| **Joint SyntaxFest poster session** |
   |              | _All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters._ |
   |15:00	- 18:00	| **[UDW](https://universaldependencies.org/udw21/) talks** |
@@ -241,7 +241,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |17:00 - 18:00 | **UDW invited talk** |
   |              | Incorporating Compositionality and Morphology into End-to-End Model |
   |              | *Emily Pitler* |
-  |              | _Session chair: TBD_ |
+  |              | Session chair: TBD |
   
   
  
@@ -269,6 +269,13 @@ All talks and the poster session will take place on Gather. The link will be sha
 > I give an overview of some recent work taking a corpus-based, information-theoretic view on problems of dependency grammar. First, I argue for a connection between syntactic dependencies and the information-theoretic notion of mutual information, a measure of how strongly two words constrain each other, which allows us to quantify the “strength” of the link between a dependent and its head. Next, I present theoretical motivations and empirical evidence for information locality: a generalization of dependency length minimization which holds that words are under a pressure to be close to each other in word order in proportion to their mutual information. Finally I present evidence that crosslinguistic word orders reflect optimization for recoverability of dependency relations from strings of words.
 
 * [Sylvain Kahane](https://kahane.fr/), Université Paris Nanterre: _Quantitative studies on tree bank collections: Complexity, universals, and typological signature_
+
+> Thanks to the Universal Dependencies database, we now have collections of treebanks annotated according to common guidelines. Such collections allow us to verify properties supposedly common to all languages of the world, but also to contrast the functioning of different languages.
+In this talk, we will address three points.
+First, we will focus on syntactic complexity by showing that the study of dependency flux (the set of concomitant dependencies in every inter-word position) allows us to give an alternative interpretation to dependency distance minimization (Liu 2008) and constraints on self-embeding. The asymmetry in potential flux between head-final and head-initial configurations could explain why head-initial languages are rarer and more constrained than head-final languages. (Collaboration with Chunxiao Yan.)
+We will then see how treebanks allow us to extract quantified grammatical information and to approach typological studies from a new angle, which we call typometrics. We will focus on different properties of word order and their visualization by scatterplots. The quantitative approach allows us to verify and extend the categorical universals of language, but also to propose new kinds of universals. (Collaboration with Kim Gerdes and Xinying Chen).
+We will conclude by mentioning a new research project that aims at extracting from treebanks the main constructions of each language, thus giving a typological signature of the language. The goal is to extract specific properties of each language, unlike previous works where the same property is studied on all languages and might not be relevant for some languages.
+
 * [Emily Pitler](http://www.emilypitler.com/), Google: _Incorporating Compositionality and Morphology into End-to-End Models_
 
 > Many neural end-to-end systems today do not rely on syntactic parse trees, as much of the information that parse trees provide is encoded in the parameters of pretrained models. Lessons learned from parsing technologies and from taking a multilingual perspective, however, are still relevant even for end-to-end models. This talk will describe work that relies on compositionality in semantic parsing and in reading comprehension requiring numerical reasoning. We’ll then describe a released dataset that requires advances in multilingual modeling, and some approaches designed to better model morphology than off-the-shelf subword models that make some progress on these challenges.
