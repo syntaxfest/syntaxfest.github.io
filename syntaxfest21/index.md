@@ -16,6 +16,10 @@ title: Home
 * [TLT](https://tlt2021.phil.hhu.de/) : The International Workshop on Treebanks and Linguistic Theories 
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
+
+**IMPORTANT** 
+> If you cannot afford the fee to SyntaxFest 2022 for some reason, please contact us for instructing you how to join.
+> Here is an email: petya@bultreebank.org
 -----
 
 <details open markdown="block">
