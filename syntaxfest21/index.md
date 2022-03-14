@@ -20,6 +20,7 @@ title: Home
 **IMPORTANT** 
 > If you cannot afford the fee to SyntaxFest 2022 for some reason, please contact us for instructing you how to join.
 > Here is an email: petya@bultreebank.org
+
 -----
 
 <details open markdown="block">
