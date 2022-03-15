@@ -18,7 +18,7 @@ title: Home
 
 
 **IMPORTANT** 
-> SyntaxFest will take place on Gather, a great platform for which we gladly pay a (small) fee per day per participant; the organisers are happy to offer free registrations within the limits of the budget to anyone wishing to attend who cannot (for some reason) get funded by their institution. Please don't hesitate to contact us!
+> SyntaxFest will take place on Gather, a great platform for which we gladly pay a (small) fee per day per participant; the organisers are happy to offer free registrations within the limits of the budget to anyone wishing to attend who cannot (for some reason) get funded by their institution.
 
 -----
 
