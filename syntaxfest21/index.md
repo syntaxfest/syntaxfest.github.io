@@ -18,8 +18,7 @@ title: Home
 
 
 **IMPORTANT** 
-> If you cannot afford the fee to SyntaxFest 2022 for some reason, please contact us for instructing you how to join.
-> Here is an email: petya@bultreebank.org
+> SyntaxFest will take place on Gather, a great platform for which we gladly pay a (small) fee per day per participant; the organisers are happy to offer free registrations to anyone wishing to attend who cannot (for some reason) get this funded by their institution. Please don't hesitate to contact us!
 
 -----
 
