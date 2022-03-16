@@ -55,7 +55,7 @@ All talks and the poster session will take place on Gather. The link will be sha
    |              | Treebanking and Parsing for Irish |
    |              | *Jennifer Foster* |
    |              | *Teresa Lynn* |
-   |              | Session chairs: TBD |
+   |              | Session chair: Kilian Evang |
    |13:00 - 16:00 | **Gather practice and social** |
    
 ### 22 March 2022
@@ -63,9 +63,10 @@ All talks and the poster session will take place on Gather. The link will be sha
   | Time (UTC) | Session |
   |:------|:----------------------------|
   |09:50 - 10:00 | TLT Opening |
+  |              | Kilian Evang |
   |10:00 - 11:40 | **[TLT](https://tlt2021.phil.hhu.de/) talks** |
   |              | _Talks are 15 minutes + 5 minutes for discussion_ |
-  |              | Session chairs: TBD |
+  |              | Session chair: Daniel Dakota |
   |              | The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond |
   |              | *Erica Biagetti* |
   |              | [[paper](https://aclanthology.org/2021.tlt-1.2/)] |
@@ -85,7 +86,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |12:00 - 13:00	| **TLT invited talk** |
   |              | Widely Interpretable Semantic Representation: Frameless Meaning Representation for Broader Applicability |
   |              | *Jinho Choi* |
-  |              | Session chair: TBD |
+  |              | Session chair: Kilian Evang |
   |13:00 - 15:00	| **Joint SyntaxFest poster session** |
   |              | _The following **TLT papers** will be presented as posters. All posters will be on display on both 22 and 23 March._ |
   |              | _We encourage authors to present them on both days._ |
