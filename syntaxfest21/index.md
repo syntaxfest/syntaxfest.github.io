@@ -219,6 +219,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | _All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters._ |
   |15:00	- 18:00	| **[UDW](https://universaldependencies.org/udw21/) talks** |
   |15:00 - 15:45 | **Talks session 1** |
+  |              | Session chair: Miryam de Lhoneux |
   |              | UD on Software Requirements: Application and Challenges (15 min) |
   |              | *Pierre André Ménard, Naïma Hassert and Edith Galy* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.5/)] |
@@ -230,6 +231,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |              | [[paper](https://aclanthology.org/2021.udw-1.9/)] |
   |15:45 - 16:00 | **Coffee break** |
   |16:00 - 16:45 | **Talks session 2** |
+  |              | Session chair: Reut Tsarfaty |
   |              | Towards a consistent annotation of nominal person in Universal Dependencies (10 min) |
   |              | *Georg Höhn* |
   |              | [[paper](https://aclanthology.org/2021.udw-1.6/)] |
@@ -246,7 +248,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |17:00 - 18:00 | **UDW invited talk** |
   |              | Incorporating Compositionality and Morphology into End-to-End Model |
   |              | *Emily Pitler* |
-  |              | Session chair: TBD |
+  |              | Session chair: Reut Tsarfaty |
   
   
  
