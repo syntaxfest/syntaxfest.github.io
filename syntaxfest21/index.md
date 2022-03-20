@@ -194,7 +194,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |09:50 - 13:00 | **[Quasy](https://quasy-2021.webnode.cz/) talks** |
   |09:50 - 10:00 | **Quasy Opening** |
   |10:00 - 11:40 | _Talks are 15 minutes + 5 minutes for discussion._ |
-  |              | Session chairs: TBD |
+  |              | Session chair: Xinying Chen |
   |              | Dependency distance minimization predicts compression |
   |              | *Ramon Ferrer-i-Cancho and Carlos Gómez-Rodríguez* |
   |              | [[paper](https://aclanthology.org/2021.quasy-1.4/)] |
@@ -214,7 +214,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |12:00 - 13:00 | **Quasy invited talk** |
   |              | Quantitative studies on tree bank collections: Complexity, universals, and typological signature |
   |              | *Sylvain Kahane* |
-  |              | Session chair: TBD |
+  |              | Session chair: Xinying Chen |
   |13:00 - 15:00	| **Joint SyntaxFest poster session** |
   |              | _All posters will be on display on both 22 and 23 March. We encourage authors to present them on both days. See above for all posters._ |
   |15:00	- 18:00	| **[UDW](https://universaldependencies.org/udw21/) talks** |
