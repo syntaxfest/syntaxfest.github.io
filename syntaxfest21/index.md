@@ -169,7 +169,7 @@ All talks and the poster session will take place on Gather. The link will be sha
   |16:20 - 16:40 | A monarchy without subjects: on Brassai's (almost) subject-free dependency grammar |
   |              | *András Imrényi* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.6/)] |
-  |16:40 - 17:00 | Loops - or mutual dependency and Word Grammar: headedness in the noun phrase |
+  |16:40 - 17:00 | Mutual dependency and Word Grammar: headedness in the noun phrase |
   |              | *Nikolas Gisborne* |
   |              | [[paper](https://aclanthology.org/2021.depling-1.5/)] |
   |17:00 - 17:20 | Is one head enough? Mention heads in coreference annotations compared with UD-style heads |
