@@ -257,7 +257,10 @@ All talks and the poster session will take place on Gather. The link will be sha
 
   | Time (UTC)	| Session |
   |:------|:----------------------------|
-  |TBD | Discussions, closing, social |
+  |09:00 - 10:00 | Joint Discussion (Towards UD guidelines v.3, the role of SUD, the role of the document genre and other |
+  |              | domain properties, etc. |
+  |10:00 - 11:00 | SyntaxFest business meeting |
+  |11:00 - 12:00 | Business meetings per workshop: Quasy/Depling/TLT/UDW |
  
 
 
