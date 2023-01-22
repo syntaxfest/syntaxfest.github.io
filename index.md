@@ -4,19 +4,30 @@ title: Home
 ---
 # 4 events for 1 Fest of Empirical Syntax
 
-The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing:
+The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
+
+## 2023: [GURT/SyntaxFest 2023](https://gurt.georgetown.edu/gurt-2023/)
+
+The third edition will be held in Washington, DC from 9 to 12 March 2023: [GURT/SyntaxFest 2023](https://gurt.georgetown.edu/gurt-2023/)
+
+* [Depling](https://depling.org/) : The Conference on Dependency Linguistics
+* [TLT](https://cl.indiana.edu/tlt2023/) : The International Workshop on Treebanks and Linguistic Theories 
+* [UDW](https://universaldependencies.org/udw23/) : The Universal Dependencies Workshop
+* [CxGs+NLP](https://sites.google.com/view/cxgsnlpworkshop) : Construction Grammars and NLP Workshop
+
+## 2021: [![SyntaxFest Sofia 2021](/images/syntaxfest.sofia.png)](syntaxfest21/)
+
+The second edition was held in Sofia from 21 to 25 March 2022:  [SyntaxFest21 Sofia](https://syntaxfest.github.io/syntaxfest21/)
+
 * [Quasy](https://quasy-2021.webnode.cz/) : The Workshop on Quantitative Syntax
 * [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * [TLT](https://tlt2021.phil.hhu.de/) : The International Workshop on Treebanks and Linguistic Theories 
 * [UDW](https://universaldependencies.org/udw21/) : The Universal Dependencies Workshop
 
-[![SyntaxFest Sofia 2021](/images/syntaxfest.sofia.png)](syntaxfest21/)
-
-The next and second edition will be held in Sofia from 21 to 25 March 2022:  [SyntaxFest21 Sofia](https://syntaxfest.github.io/syntaxfest21/)
+## 2019: [![SyntaxFest Paris 2019](/images/syntaxfest.paris.png)](syntaxfest19)
 
 The first edition was held in Paris in August 2019: [SyntaxFest19 Paris](syntaxfest19/)
 
-[![SyntaxFest Paris 2019](/images/syntaxfest.paris.png)](syntaxfest19)
 
 
 
