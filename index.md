@@ -6,7 +6,7 @@ title: Home
 
 The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
 
-## 2023: [![GURT/SyntaxFest 2023](/images/syntaxfest.DC.2023.150.png)](https://gurt.georgetown.edu/gurt-2023/)
+## 2023: [<img src="https://github.com/syntaxfest/syntaxfest.github.io/raw/master/images/GURT.syntaxfest.DC.horizontal.png" alt="GURT/SyntaxFest 2023" width="350"/>](https://gurt.georgetown.edu/gurt-2023/)
 
 The third edition will be held in Washington, DC from 9 to 12 March 2023: [GURT/SyntaxFest 2023](https://gurt.georgetown.edu/gurt-2023/)
 
