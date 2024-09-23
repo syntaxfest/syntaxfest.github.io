@@ -6,11 +6,11 @@ title: Home
 <!-- * TOC
 {:toc} -->
 
-# The Syntaxfest 2021 in Sofia (will be held *ONLINE* from 21 March to 24 March 2022)
+# The Syntaxfest 2021 in Sofia (was held *ONLINE* from 21 March to 24 March 2022)
 
 ### 4 events for 1 Fest of Empirical Syntax
 
- The second edition of the SyntaxFest brings together again four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing:
+ The second edition of the SyntaxFest brought together again four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing:
 * [Quasy](https://quasy-2021.webnode.cz/) : The Workshop on Quantitative Syntax
 * [Depling](https://depling.org/depling2021/) : The Conference on Dependency Linguistics
 * [TLT](https://tlt2021.phil.hhu.de/) : The International Workshop on Treebanks and Linguistic Theories 
@@ -18,7 +18,7 @@ title: Home
 
 
 **IMPORTANT** 
-> SyntaxFest will take place on Gather, a great platform for which we gladly pay a (small) fee per day per participant; the organisers are happy to offer free registrations within the limits of the budget to anyone wishing to attend who cannot (for some reason) get funded by their institution. In that case please register as _Guest_.
+> SyntaxFest took place on Gather, a great platform for which we gladly pay a (small) fee per day per participant; the organisers are happy to offer free registrations within the limits of the budget to anyone wishing to attend who cannot (for some reason) get funded by their institution. In that case please register as _Guest_.
 
 -----
 
