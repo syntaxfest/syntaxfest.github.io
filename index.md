@@ -6,9 +6,13 @@ title: Home
 
 The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
 
+## 2025: [![SyntaxFest Ljubljana 2025](/images/SyntaxFest.Ljubljana.horizontal.png)](syntaxfest25)
+
+The fourth edition will be held in Ljubljana from 26 to 29 August 2025: [SyntaxFest25 Ljubljana](syntaxfest25/)
+
 ## 2023: [<img src="https://github.com/syntaxfest/syntaxfest.github.io/raw/master/images/GURT.syntaxfest.DC.horizontal.png" alt="GURT/SyntaxFest 2023" width="350"/>](https://gurt.georgetown.edu/gurt-2023/)
 
-The third edition will be held in Washington, DC from 9 to 12 March 2023: [GURT/SyntaxFest 2023](https://gurt.georgetown.edu/gurt-2023/)
+The third edition was held in Washington, DC from 9 to 12 March 2023: [GURT/SyntaxFest 2023](https://gurt.georgetown.edu/gurt-2023/)
 
 * [Depling](https://depling.org/) : The Conference on Dependency Linguistics
 * [TLT](https://cl.indiana.edu/tlt2023/) : The International Workshop on Treebanks and Linguistic Theories 
