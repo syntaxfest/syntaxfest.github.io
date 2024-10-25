@@ -10,6 +10,17 @@ The SyntaxFest brings together four events with partially overlapping research t
 
 The fourth edition will be held in Ljubljana from 26 to 29 August 2025: [SyntaxFest25 Ljubljana](syntaxfest25/)
 
+* **DepLing**: 8th International Conference on Dependency Linguistics
+* **TLT**: 23rd Workshop on Treebanks and Linguistic Theories
+* **UDW**: 8th Universal Dependencies Workshop
+* **IWPT**: 18th International Conference on Parsing Technologies
+* **Quasy**: 2nd Workshop on Quantitative Syntax
+
+In addition, SyntaxFest 2025 will be co-located with the UniDive 1st Shared Task on Morphosyntactic Parsing, organized by the UniDive COST Action CA21167, on 26 August 2026.
+<br>
+<br>
+
+
 ## 2023: [<img src="https://github.com/syntaxfest/syntaxfest.github.io/raw/master/images/GURT.syntaxfest.DC.horizontal.png" alt="GURT/SyntaxFest 2023" width="350"/>](https://gurt.georgetown.edu/gurt-2023/)
 
 The third edition was held in Washington, DC from 9 to 12 March 2023: [GURT/SyntaxFest 2023](https://gurt.georgetown.edu/gurt-2023/)
