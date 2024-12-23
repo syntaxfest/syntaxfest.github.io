@@ -11,7 +11,7 @@ The SyntaxFest brings together four events with partially overlapping research t
 The fourth edition will be held in Ljubljana from 26 to 29 August 2025: [SyntaxFest25 Ljubljana](syntaxfest25/)
 
 * **DepLing**: 8th International Conference on Dependency Linguistics
-* **TLT**: 23rd Workshop on Treebanks and Linguistic Theories
+* [TLT](https://www.korpuslab.uni-hamburg.de/en/tlt2025.html): 23rd Workshop on Treebanks and Linguistic Theories
 * **UDW**: 8th Universal Dependencies Workshop
 * **IWPT**: 18th International Conference on Parsing Technologies
 * [QUASY](https://quansyntax.github.io/quasy2025/index.html): 3rd Workshop on Quantitative Syntax
