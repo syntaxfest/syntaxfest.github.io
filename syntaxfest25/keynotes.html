@@ -48,6 +48,23 @@
 			color: #555;
 			margin-bottom: 10px;
 			}
+
+			/* Responsive adjustments */
+			@media (max-width: 768px) {
+				.speaker-container {
+					flex-direction: column; /* Stack image above text on smaller screens */
+					align-items: center; /* Center image */
+				}
+
+				.speaker-container img {
+					width: 60%; /* Make image smaller on mobile */
+					max-width: 250px; /* Prevent it from getting too big */
+				}
+
+				.speaker-details {
+					text-align: center; /* Center-align text for better readability */
+				}
+			}
 		</style>
 	</head>
 	<body class="no-sidebar is-preload">
