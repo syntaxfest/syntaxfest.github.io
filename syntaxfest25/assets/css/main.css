@@ -2118,8 +2118,8 @@ input, select, textarea {
 	#wide-banner {
 		width: 100%; 
 		background: url("../../images/ljpanorama_reasonable.jpg") no-repeat center center; 
-		background-size: 100% 600px; 
-		height: 600px;
+		background-size: 100% 500px; 
+		height: 500px;
 		line-height: 1.0;
 		display: flex; 
 		justify-content: center;
