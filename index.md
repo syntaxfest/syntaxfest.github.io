@@ -16,7 +16,7 @@ The fourth edition will be held in Ljubljana from 26 to 29 August 2025: [SyntaxF
 * [IWPT](https://www.sigparse.org/iwpt2025/): 18th International Conference on Parsing Technologies
 * [QUASY](https://quansyntax.github.io/quasy2025/index.html): 3rd Workshop on Quantitative Syntax
 
-In addition, SyntaxFest 2025 will be co-located with the [UniDive 1st Shared Task on Morphosyntactic Parsing](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp), organized by the UniDive COST Action CA21167, on 26 August 2026.
+In addition, SyntaxFest 2025 will be co-located with the [UniDive 1st Shared Task on Morphosyntactic Parsing](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp), organized by the UniDive COST Action CA21167, and the [2nd Workshop on Universal Dependencies for Turkic Languages](https://ud-turkic.github.io/udtw25/), both on 26 August 2026.
 <br>
 <br>
 
