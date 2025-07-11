@@ -19,14 +19,31 @@
             border: 2px solid #dee2e6;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 			table-layout: fixed;
-			width: 1000px;
+			width: 1400px;
         }
 
-        th,
-        td {
-            border: 1px solid #dee2e6;
+		strong {
+			font-weight: 600;
+			color: #464646;
+		}
+
+		table a {
+			font-weight: 600;
+			color: #464646;
+		}
+
+        th, td {
+            /*border: 1px solid #dee2e6;
             padding: 10px;
-            text-align: center;
+            text-align: center;*/
+			font-size: 15px;              /* Smaller but readable */
+			line-height: 1.4;             /* Tighter line spacing */
+			padding: 4px 6px;             /* Compact padding */
+			word-wrap: break-word;        /* Breaks long words */
+			white-space: normal;          /* Allows wrapping */
+			vertical-align: top;          /* Aligns text to the top */
+			font-family: Arial, sans-serif; /* Clear, compact font */
+			text-align: center;
         }
 
         table th {
@@ -35,13 +52,32 @@
             color: #343a40;
         }
 
+		table, th, td {
+			border: 1px solid rgb(136, 136, 136);
+			border-collapse: collapse;
+		}
+
+		h3 {
+			background-color: rgb(224, 224, 224);
+			padding: 10px;
+			margin-top: 10px;
+			border-radius: 5px;
+		}
+
         .highlight {
             background-color: #f8f9fa;
+			font-size: small;
         }
 
         .special {
             background-color: #f0f0f0;
         }
+
+		.ataglance_table {
+			width: 100%;
+			padding: 2px 4px !important;
+			table-layout: auto;
+		}
 		</style>
 	</head>
 	<body class="no-sidebar is-preload">
@@ -70,7 +106,6 @@
 									<ul class="dropotron">
 										<li style="white-space: nowrap;"><a href="programme.html" style="display: block;">Schedule</a></li>
 										<li style="white-space: nowrap;"><a href="keynotes.html" style="display: block;">Keynote Speakers</a></li>
-										<li style="white-space: nowrap;"><a href="accepted_papers.html" style="display: block;">Accepted Papers</a></li>
 										<li style="white-space: nowrap;"><a href="author_instructions.html" style="display: block;">Author Instructions</a></li>
 									</ul>
 								</li>
@@ -98,63 +133,858 @@
 
 							<!-- Post -->
 							<article class="box post">
-							    <header>
-							        <h2>Schedule at a Glance</h2>
+								<header>
+							        <h2>Programme at a Glance</h2>
 							    </header>
-							    <p>SyntaxFest 2025 is a <b>3.5-day event</b>, running from Tuesday afternoon, August 26, to Friday, August 29, 2025. On Tuesday morning, we kick off with two <b>pre-conference workshops</b> organized by UniDive COST Action: the <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start" target="_blank">UniDive Shared Task on Morphosyntactic Parsing</a> (MSP) and the <a href="https://ud-turkic.github.io/udtw25/" target="_blank">Workshop on Universal Dependencies for Turkic Languages</a> (UDTW), which will run in parallel.</p>
+
+								<p>SyntaxFest 2025 is a <b>3.5-day event</b>, running from Tuesday afternoon, August 26, to Friday, August 29, 2025. On Tuesday morning, we kick off with two <b>pre-conference workshops</b> organized by the <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start" target="_blank"> UniDive COST Action</a>, which will run in parallel.</p>
 								
 								<div style="overflow: auto;">
-									<table border="1" cellspacing="0" cellpadding="6" class="schedule-table">
+									<table border="1" cellspacing="0" cellpadding="6" class="ataglance_table">
 									  <tr>
 									    <th></th>
-									    <th>Tuesday<br><small>Aug 26</small></th>
-									    <th>Wednesday<br><small>Aug 27</small></th>
-									    <th>Thursday<br><small>Aug 28</small></th>
-									    <th>Friday<br><small>Aug 29</small></th>
+									    <th style="font-size: small;">Tuesday,<br><small>August 26, 2025</small></th>
+									    <th style="font-size: small;">Wednesday,<br><small>August 27, 2025</small></th>
+									    <th style="font-size: small;">Thursday,<br><small>August 28, 2025</small></th>
+									    <th style="font-size: small;">Friday,<br><small>August 29, 2025</small></th>
 									  </tr>
 									
 									  <tr>
-									    <td class="highlight"><b>09:00–10:30</b></td>
-									    <td style="background-color:#E0E0E0; text-align:center;"><b>UniDive</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>UDW</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>DepLing</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>TLT</b></td>
+									    <td class="highlight"><b>AM Slot 1</b></td>
+									    <td style="background-color:#daf1f1; text-align:center; font-size: small;"><b>UniDive</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>UDW</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>DepLing</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>TLT</b></td>
 									  </tr>
 									
 									  <tr>
-									    <td class="highlight"><b>11:00–12:30</b></td>
-									    <td style="background-color:#E0E0E0; text-align:center;"><b>UniDive</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>UDW</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>DepLing</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>QUASY</b></td>
+									    <td class="highlight"><b>AM Slot 2</b></td>
+									    <td style="background-color:#daf1f1; text-align:center; font-size: small;"><b>UniDive</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>UDW</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>DepLing</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>QUASY</b></td>
 									  </tr>
 									
 									  <tr>
-									    <td class="highlight"><b>14:00–15:30</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>IWPT</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>UDW + DepLing</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>TLT</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>QUASY</b></td>
+									    <td class="highlight"><b>PM Slot 1</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>IWPT</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>UDW + DepLing</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>TLT</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>QUASY</b></td>
 									  </tr>
 									
 									  <tr>
-									    <td class="highlight"><b>16:00–17:30</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>IWPT</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>UDW + DepLing</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>TLT + DepLing</b></td>
-									    <td style="background-color:#F3E2C7; text-align:center;"><b>QUASY + TLT</b></td>
+									    <td class="highlight"><b>PM Slot 2</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>IWPT</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>Joint posters</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>Joint posters</b></td>
+									    <td style="background-color:#F3E2C7; text-align:center; font-size: small;"><b>Joint posters</b></td>
 									  </tr>
 									
 									  <tr>
 									    <td class="highlight"><b>Evening</b></td>
-									    <td style="background-color:#E0E0E0; text-align:center;"><b>Welcome Reception</b></td>
-									    <td style="background-color:#E0E0E0; text-align:center;"><b>Guided Tour</b></td>
-									    <td style="background-color:#E0E0E0; text-align:center;"><b>Conference Dinner</b></td>
+									    <td style="background-color:#E0E0E0; text-align:center; font-size: small;"><b>Welcome Reception</b></td>
+									    <td style="background-color:#E0E0E0; text-align:center; font-size: small;"><b>Guided Tour</b></td>
+									    <td style="background-color:#E0E0E0; text-align:center; font-size: small;"><b>Conference Dinner</b></td>
 									    <td></td>
 									  </tr>
 									</table>
 								</div>
-							    <p>More details on the programme and schedule will follow.</p>
+
+							    <header style="margin-top: 70px;" id="Top">
+							        <h2>Detailed Schedule</h2>
+							    </header>
+								<div>
+									Below is the <strong>preliminary</strong> detailed schedule of the conference. Note that the programme is subject to change before the start of the event. All times are CEST. 
+									<br>All presentation sessions will be held in the Red Hall at the conference venue, with the poster sessions taking place in the lobby area in front of the Red Hall.
+									
+									<br><br><strong>Last program update:</strong> 11.07.2025. 
+									<br><strong>Instructions for the presenters</strong> can be found <a href="author_instructions.html" target="_blank">here</a>. 
+									<!--<br>A <strong>pdf version</strong> of the programme can be found <a href="Programme_pdf.pdf" target="_blank">here</a>.-->
+
+									<h3 style="margin-top: 50px;">Jump to:</h3>
+									<ul>
+										<li><a href="#Tue"><strong>Day 1: Tuesday, August 26, 2025</strong></a></li>
+										<li><a href="#Wed"><strong>Day 2: Wednesday, August 27, 2025</strong></a></li>
+										<li><a href="#Thu"><strong>Day 3: Thursday, August 28, 2025</strong></a></li>
+										<li><a href="#Fri"><strong>Day 4: Friday, August 29, 2025</strong></a></li>
+									</ul>
+								</div>
+
+								<div style="overflow: auto;">
+
+									<h3 style="text-align: center;" id="Tue">Day 1: Tuesday, August 26, 2025</h3>
+									<table style="width: 100%;">
+										<!--<tr>
+											<th style="width: 20%;"></th>
+											<th colspan="2">Tuesday<br>Aug 26</th>
+										</tr>-->
+
+										<tr>
+											<td style="width: 20%;" class="highlight"><strong>08:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Registration Desk Opens</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>09:00 – 10:30</strong></td>
+									    	<td style="background-color:#daf1f1;">
+												[9:00-10:30]<br>
+												<strong>UniDive Shared Task on Morphosyntactic parsing</strong><br>
+												Location: Red Hall
+											</td> 
+											<td style="background-color:#daf1f1;">
+												[9:00-10:30]<br>
+												<strong>UniDive Turkic UD Workshop</strong><br>
+												Location: Grey Hall
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>10:30 – 11:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>11:00 – 12:30</strong></td>
+									    	<td style="background-color:#daf1f1;">
+												[11:00-12:30]<br>
+												<strong>UniDive Shared Task on Morphosyntactic parsing</strong><br>
+												Location: Red Hall
+											</td>
+											<td style="background-color:#daf1f1;">
+												[11:00-13:00]<br>
+												<strong>UniDive Turkic UD Workshop</strong><br>
+												Location: Grey Hall
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>12:30 – 14:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Lunch</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>14:00 – 15:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 1 – IWPT</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[14:00-14:30]<br>
+														<strong>Conference opening</strong> <br>
+													</li>
+
+													<li>
+														[14:30-15:30]<br>
+														🎤<strong>KEYNOTE: Isabel Papadimitriou (Harvard University)</strong><br>
+														<u><a href="keynotes.html#IWPT" target="_blank">Title TBA</a></u>
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>15:30 – 16:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>16:00 – 17:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 2 – IWPT</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													
+													<li>
+														[16:00-16:20]<br>
+														<strong>Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs</strong> <br>
+														Hiroshi Matsuda, Chunpeng Ma, Masayuki Asahara
+													</li>
+
+													<li>
+														[16:20-16:40]<br>
+														<strong>An Efficient Parser for Bounded-Order Product-Free Lambek Categorial Grammar via Term Graph</strong> <br>
+														Jinman Zhao, Gerald Penn
+													</li>
+
+													<li>
+														[16:40-17:00]<br>
+														<strong>Crosslingual Dependency Parsing of Hawaiian and Cook Islands Māori using Universal Dependencies</strong> <br>
+														Gabriel H. Gilbert, Rolando Coto-Solano, Sally Akevai Nicholas, Lauren Houchens, Sabrina Barton, Trinity Pryor
+													</li>
+
+													<li>
+														[17:00-17:15]<br>
+														<strong>CCG Revisited: A Multilingual Empirical Study of the Kuhlmann-Satta Algorithm</strong> <br>
+														Paul He, Gerald Penn
+													</li>
+
+													<li>
+														[17:15-17:30]<br>
+														<strong>High-Accuracy Transition-Based Constituency Parsing</strong> <br>
+														John Bauer, Christopher D Manning
+													</li>
+
+													<!--<li>
+														[17:15-17:30]<br>
+														<strong>ProsodyBERT: Multi-Task Learning for Extrametricality Detection in Parallel Prose</strong> <br>
+														Wenjie Hua, Taiyu Wang
+													</li>-->
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>17:30+</strong></td>
+									    	<td colspan="2" style="background-color:#E0E0E0;"><strong>Welcome Reception</strong></td>
+										</tr>
+									</table>
+
+									<div style="text-align: right; font-size: larger;">
+										<a href="#Top"><strong>↑ Back to top</strong></a>
+									</div>
+
+									<h3 style="text-align: center; margin-top: 80px;" id="Wed">Day 2: Wednesday, August 27, 2025</h3>
+									<table style="width: 100%;">
+										<tr>
+											<td style="width: 20%;" class="highlight"><strong>08:30 – 09:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Registration Desk Opens</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>09:00 – 10:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 3 – UDW</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[9:00-9:50]<br>
+														🎤<strong>KEYNOTE: Miryam de Lhoneux (KU Leuven)</strong><br>
+														<u><a href="keynotes.html#UDW" target="_blank">Typologically informed NLP evaluation</a></u>
+													</li>
+
+													<li>
+														[9:50-10:10]<br>
+														<strong>TreEn: A Multilingual Treebank Project on Environmental Discourse</strong><br>
+														Adriana Silvina Pagano, Patricia Chiril, Elisa Chierchiello, Cristina Bosco
+													</li>
+
+													<li>
+														[10-10-10:30]<br>
+														<strong>Crossing Dialectal Boundaries: Building a Treebank for the Dialect of Lesbos through Knowledge Transfer from Standard Modern Greek</strong><br>
+														Stavros Bompolas, Stella Markantonatou, Angela Ralli, Antonios Anastasopoulos
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>10:30 – 11:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>11:00 – 12:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 4 – UDW</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[11:00-11:15]<br>
+														<strong>Negation in Universal Dependencies</strong><br>
+														Jamie Yates Findlay, Dag Trygve Truslew Haug
+													</li>
+
+													<li>
+														[11:15-11:30]<br>
+														<strong>A UD Treebank for Bohairic Coptic</strong><br>
+														Amir Zeldes, Nina Speransky, Nicholas E. Wagner, Caroline T. Schroeder
+													</li>
+
+													<li>
+														[11:30-11:45]<br>
+														<strong>Annotation of Relative Forms in the Egyptian-UJaen Treebank</strong><br>
+														Roberto A. Diaz Hernandez, Daniel Zeman
+													</li>
+
+													<li>
+														[11:45-12:00]<br>
+														<strong>MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs</strong><br>
+														Jaap Jumelet, Leonie Weissweiler, Arianna Bisazza
+													</li>
+
+													<li>
+														[12:00-12:15]<br>
+														<strong>Universal Dependencies for Suansu</strong><br>
+														Jessica K. Ivani, Kira Tulchynska
+													</li>
+
+													<li>
+														[12:15-12:30]<br>
+														<strong>Building UD Cairo for Old English in the Classroom</strong><br>
+														Lauren Levine, Junghyun Min, Amir Zeldes
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>12:30 – 14:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Lunch</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>14:00 – 15:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 5 – DepLing / UDW</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[14:00-14:50]<br>
+														🎤<strong>KEYNOTE: Dan Zeman (Charles University, Prague)</strong><br>
+														<u><a href="keynotes.html#DepLing" target="_blank">Auxiliaries across Languages and Frameworks</a></u>
+													</li>
+
+													<li>
+														[14:50-15:10]<br>
+														<strong>Annotating Second Language in Universal Dependencies: a Review of Current Practices and Directions for Harmonized Guidelines</strong><br>
+														Arianna Masciolini, Aleksandrs Berdicevskis, Maria Irena Szawerna, Elena Volodina
+													</li>
+
+													<li>
+														[15:10-15:30]<br>
+														<strong>Reference and Modification in Universal Dependencies</strong><br>
+														Joakim Nivre, William Croft
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>15:30 – 16:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>16:00 – 17:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 6: Joint Poster Session A</strong><br>
+												Chair: TBA<br><br>
+
+												[16:00-16:30]<br>
+												<strong>Lightning talks (2 min per poster)</strong><br>
+												Location: Red Hall<br><br>
+
+												[16:30-17:30]<br>
+												<strong>Poster Session</strong><br>
+												Location: Lobby<br><br>
+							
+												<ul>
+													<li>
+														<strong>UD Treebanks for Esperanto as a natural language</strong><br>
+														Masanori Oya
+													</li>
+
+													<li>
+														<strong>UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions</strong><br>
+														Xiulin Yang, Zhuoxuan Ju, Lanni Bu, Zoey Liu, Nathan Schneider
+													</li>
+
+													<li>
+														<strong>Universal Dependencies for Sindhi</strong><br>
+														John Bauer, Sakeena Shah, Muhammad Shaheer, Mir Afzal Ahmed Talpur, Zubair Sanjrani, Sarwat Qureshi, SHAFI M PIRZADA, Christopher D Manning, Mutee U Rahman
+													</li>
+
+													<li>
+														<strong>Universal Dependencies Treebank for Khoekhoe (KDT)</strong><br>
+														Kira Tulchynska, Sylvanus Job, Alena Witzlack-Makarevich
+													</li>
+
+													<li>
+														<strong>Parallel Universal Dependencies Treebanks for Turkic Languages</strong><br>
+														Arofat Akhundjanova, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Cagri Coltekin
+													</li>
+
+													<li>
+														<strong>Towards better annotation practices for symmetrical voice in Universal Dependencies</strong><br>
+														Andrew Thomas Dyer, Colleen Alena O'Brien
+													</li>
+
+													<li>
+														<strong>Extending the Enhanced Universal Dependencies – addressing subjects in pro-drop languages</strong><br>
+														Magali Sanches Duran, Elvis A. de Souza, Maria das Graças Volpe Nunes, Adriana Silvina Pagano, Thiago A. S. Pardo
+													</li>
+
+													<li>
+														<strong>Developing a Universal Dependencies Treebank for Alaskan Gwich’in</strong><br>
+														Matthew Kirk Andrews, Cagri Coltekin
+													</li>
+
+													<li>
+														<strong>Quid verbumst? Applying a definition of word to Latin in Universal Dependencies</strong><br>
+														Flavio Massimiliano Cecchini
+													</li>
+
+													<li>
+														<strong>ShUD: the First Shanghainese Universal Dependency Treebank <u>[Remote]</strong></u><br>
+														Qizhen Yang
+													</li>
+													
+													<li>
+														<strong>Introducing KIParla Forest: seeds for a UD annotation of interactional syntax</strong><br>
+														Ludovica Pannitto, Eleonora Zucchini, Silvia Ballarè, Cristina Bosco, Caterina Mauri, Manuela Sanguinetti
+													</li>
+
+													<li>
+														<strong>Word Order Variation in Spoken and Written Corpora: A Cross-Linguistic Study of SVO and Alternative Orders</strong><br>
+														Nives Hüll, Kaja Dobrovoljc
+													</li>
+
+													<li>
+														<strong>A morpheme-based treebank for Gbaya, an Ubanguian language of Central Africa</strong><br>
+														Roulon-Doko Paulette, Sylvain Kahane, Bruno Guillaume
+													</li>
+
+													<li>
+														<strong>UD Annotation of Experience Clauses in Tigrinya</strong><br>
+														Michael Gasser, Nazareth Amlesom Kifle
+													</li>
+												</ul>
+									
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>18:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Guided Tour</strong></td>
+										</tr>
+									</table>
+
+									<div style="text-align: right; font-size: larger;">
+										<a href="#Top"><strong>↑ Back to top</strong></a>
+									</div>
+
+									<h3 style="text-align: center; margin-top: 80px;" id="Thu">Day 3: Thursday, August 28, 2025</h3>
+									<table style="width: 100%;">
+										<tr>
+											<td style="width: 20%;" class="highlight"><strong>08:30 – 09:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Registration Desk Opens</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>09:00 – 10:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 7 – DepLing</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[9:00-9:50]<br>
+														🎤<strong>KEYNOTE: Artur Stepanov (University of Nova Gorica)</strong><br>
+														<u><a href="keynotes.html#Local" target="_blank">What we learn about syntax when dependencies fail: Experimental insights into syntactic locality constraints</a></u>
+													</li>
+
+													<li>
+														[9:50-10:10]<br>
+														<strong>A corpus-driven description of OV order in Archaic Chinese</strong><br>
+														Qishen WU, Santiago Herrera, Pierre Magistry, Sylvain Kahane
+													</li>
+
+													<li>
+														[10:10-10:30]<br>
+														<strong>Periphrastic Verb Forms in Universal Dependencies</strong><br>
+														Lenka Krippnerová, Daniel Zeman
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>10:30 – 11:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>11:00 – 12:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 8 – DepLing</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[11:00-11:15]<br>
+														<strong>Tracing Syntactic Complexity: Exploring the Evolution of Average Dependency Length Across Three Centuries of Scientific English</strong><br>
+														Marie-Pauline Krielke, Diego Alves, Luigi Talamo
+													</li>
+
+													<li>
+														[11:15-11:30]<br>
+														<strong>Modeling Syntactic Dependencies in Southern Dutch Dialects</strong><br>
+														Loic De Langhe, Jasper Degraeuwe, Melissa Farasyn, Veronique Hoste
+													</li>
+
+													<li>
+														[11:30-11:45]<br>
+														<strong>Assessing the Agreement Competence of Large Language Models</strong><br>
+														Alba Táboas García, Leo Wanner
+													</li>
+
+													<li>
+														[11:45-12:00]<br>
+														<strong>Genre Variation in Dependency Types: A Two-Level Genre Analysis Using the Czech National Corpus</strong><br>
+														Xinying Chen, Miroslav Kubát
+													</li>
+
+													<li>
+														[12:00-12:15]<br>
+														<strong>Distance and Projectivity as Predictors of Sentence Acceptability in Free Word Order Languages</strong><br>
+														Kirill Chuprinko, Artem Novozhilov, Arthur Stepanov
+													</li>
+
+													<li>
+														[12:15-12:30]<br>
+														<strong>Head-initial and head-Final coordinate structures in two annotation schemes of dependency grammar</strong><br>
+														Timothy John Osborne, Chenchen Song
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>12:30 – 14:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Lunch</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>14:00 – 15:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 9 – TLT</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[14:00-14:50]<br>
+														🎤<strong>KEYNOTE: Amir Zeldes (Georgetown University)</strong><br>
+														<u><a href="keynotes.html#TLT" target="_blank">Subject prominence revisited: What makes entities salient?</a></u>
+													</li>
+
+													<li>
+														[14:50-15:10]<br>
+														<strong>STARK: A Toolkit for Dependency (Sub)Tree Extraction and Analysis</strong><br>
+														Luka Krsnik, Kaja Dobrovoljc
+													</li>
+
+													<li>
+														[15:10-15:30]<br>
+														<strong>Status of morphosyntactic features Illustration with written and spoken French UD treebanks</strong><br>
+														Sylvain Kahane, Bruno Guillaume, Léna Brun, Simeng Song
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>15:30 – 16:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>16:00 – 17:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 10: Joint Poster Session B</strong><br>
+												Chair: TBA<br><br>
+
+												[16:00-16:30]<br>
+												<strong>Lightning talks (2 min per poster)</strong><br>
+												Location: Red Hall<br><br>
+
+												[16:30-17:30]<br>
+												<strong>Poster Session</strong><br>
+												Location: Lobby<br><br>
+
+												<ul>
+													<li>
+														<strong>Universal Dependencies for the Alemannic Alsatian Dialects </strong><br>
+														Barbara Hoff, Nathanaël Beiner, Delphine Bernhard
+													</li>
+
+													<li>
+														<strong>Expanding the Universal Dependencies Ancient Hebrew Treebank with Constituency Data </strong><br>
+														Daniel G. Swanson
+													</li>
+
+													<li>
+														<strong>Graph Databases for Fast Queries in UD Treebanks </strong><br>
+														Niklas Deworetzki, Peter Ljunglöf
+													</li>
+
+													<li>
+														<strong>Segmentation of Sino-origin words to enhance the representation of Korean and Japanese in S/UD-format treebanks </strong><br>
+														Raoul Blin, Jinnam Choi
+													</li>
+
+													<li>
+														<strong>A New Hebrew Universal Dependency Treebank: The First Treebank of Post-Rabbinic Historical Hebrew </strong><br>
+														Rachel Tal, Shlomit Fuchs, Orly Albeck, Elisheva Brauner, Yitzchak Lindenbaum, Ephraim Meiri, Avi Shmidman
+													</li>
+
+													<li>
+														<strong>Universal Dependency Treebank for a low-resource Dardic Language: Torwali </strong><br>
+														Naeem Uddin, Daniel Zeman
+													</li>
+
+													<li>
+														<strong>Syntax of referents of relative markers: Evidence from a corpus of learner English</strong><br> 
+														Izabela Czerniak, Debopam Das
+													</li>
+
+													<li>
+														<strong>A Typology of Non-Projective Patterns in Unas's and Teti's Pyramid Texts</strong><br>
+														Roberto A. Diaz Hernandez
+													</li>
+
+													<li>
+														<strong>Dependency Analysis of Chinese Comparative Sentences </strong><br>
+														Zexin Liu
+													</li>
+
+													<li>
+														<strong>Dative alternations in less-researched syntactic patterns of standard Croatian </strong><br>
+														Matea Andrea Birtić, Siniša Runjaić, Robert Sviben
+													</li>
+
+													<li>
+														<strong>A Quantitative Study of Subject-Predicate-Object Word Class Composition in vernacular Chinese Based on Dependency Grammar </strong><br>
+														Bingli Liu, Yiyi Zhao
+													</li>
+													
+													<li>
+														<strong>Syntactic units and their length distributions: A case study in Czech </strong><br>
+														Michaela Nogolová, Michaela Koščová, Jan Macutek, Radek Cech
+													</li>
+
+													<li>
+														<strong>Modeling the Law of Abbreviation in Classical, Modern, and ChatGPT-Generated Chinese: A Power-Law Analysis of Structural Economy </strong><br>
+														Jianwei Yan, Heng Chen
+													</li>
+												</ul>
+													
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>18:30</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Conference Dinner</strong></td>
+										</tr>
+									</table>
+
+									<div style="text-align: right; font-size: larger;">
+										<a href="#Top"><strong>↑ Back to top</strong></a>
+									</div>
+
+									<h3 style="text-align: center; margin-top: 80px;" id="Fri">Day 4: Friday, August 29, 2025</h3>
+									<table style="width: 100%;">
+										<tr>
+											<td style="width: 20%;" class="highlight"><strong>08:30 – 09:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Registration Desk Opens</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>09:00 – 10:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 11 – TLT</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[9:00-9:20]<br>
+														<strong>ComparaTree: A Multi-Level Comparative Treebank Analysis Tool</strong><br>
+														Luka Terčon, Kaja Dobrovoljc
+													</li>
+
+													<li>
+														[9:20-9:40]<br>
+														<strong>Metaphorical Heads and Literal Dependents: Syntactic Properties of Metaphors in German</strong><br>
+														Stefanie Dipper
+													</li>
+
+													<li>
+														[9:40-10:00]<br>
+														<strong>Automatic Evaluation of Linguistic Validity in Japanese CCG Treebanks</strong><br>
+														Asa Tomita, Hitomi Yanaka, Daisuke Bekki
+													</li>
+
+													<li>
+														[10:00-10:15]<br>
+														<strong>Annotation of Chinese Light Verb Constructions within UMR</strong><br>
+														Jingyi Li, Jin Zhao, Nianwen Xue, Shili Ge
+													</li>
+
+													<li>
+														[10:15-10:30]<br>
+														<strong>Legal-CGEL: Analyzing Legal Text in the CGELBank Framework</strong><br>
+														Brandon Waldon, Micaela Wells, Devika Tiwari, Meru Gopalan, Nathan Schneider
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>10:30 – 11:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>11:00 – 12:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 12 – QUASY</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[11:00-11:50]<br>
+														🎤<strong>KEYNOTE: Xiaofei Lu (The Pennsylvania State University)</strong><br>
+														<u><a href="keynotes.html#QUASY" target="_blank">The rhetorical and pragmatic functions of syntactically complex structures in academic and second language writing</a></u>
+													</li>
+
+													<li>
+														[11:50-12:10]<br>
+														<strong>On the Flatness, Non-linearity, and Branching Direction of Natural Language and Random Constituency Trees: Analyzing Structural Variation within and across Languages</strong><br>
+														Taiga Ishii, Yusuke Miyao
+													</li>
+
+													<li>
+														[12:10-12:30]<br>
+														<strong>Extraction of Contrastive Rules from Syntactic Treebanks: A Case Study in Romance Languages</strong><br>
+														Santiago Herrera, Ioana-Madalina Silai, Bruno Guillaume, Sylvain Kahane
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>12:30 – 14:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Lunch</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>14:00 – 15:30</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 13 – QUASY</strong><br>
+												Chair: TBA <br><br>
+												<ul>
+													<li>
+														[14:00-14:15]<br>
+														<strong>A Quantitative Study of Syntactic Complexity across Genres: Dependency Distance in English and Chinese</strong><br>
+														Yaqin Wang
+													</li>
+
+													<li>
+														[14:15-14:30]<br>
+														<strong>Syntactic Complexity in L2 Reading: A Comparison of Adapted and Original Czech Texts</strong><br>
+														Žaneta Stiborská, Michaela Nogolová, Xinying Chen, Miroslav Kubát
+													</li>
+
+													<li>
+														[14:30-14:45]<br>
+														<strong>First Insights into the Syntax of Slovene Student Writing: A Statistical Analysis of Šolar 3.0 vs. Učbeniki 1.0</strong><br>
+														Tina Munda, Špela Arhar Holdt
+													</li>
+
+													<li>
+														[14:45-15:00]<br>
+														<strong>Subject-Verb Agreement Alternations in Spanish Pseudopartitive Constructions: A Corpus Study</strong><br>
+														Marina Cerebrinsky
+													</li>
+
+													<li>
+														[15:00-15:15]<br>
+														<strong>A Computational Method for Analyzing Syntactic Profiles: The Case of the ELEXIS-WSD Parallel Sense-Annotated Corpus</strong><br>
+														Jaka Čibej
+													</li>
+
+													<li>
+														[15:15-15:30]<br>
+														<strong>Syntactic Complexity and News Credibility in Czech Media</strong><br>
+														Miroslav Kubát, Xinying Chen, Michaela Nogolová, Michal Místecký
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>15:30 – 16:00</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Coffee Break</strong></td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>16:00 – 17:20</strong></td>
+											<td colspan="2" style="background-color:#F3E2C7; text-align: left;">
+												<strong>Session 14: Joint Poster Session C</strong><br>
+												Chair: TBA<br><br>
+
+												[16:00-16:20]<br>
+												<strong>Lightning talks (2 min per poster)</strong><br>
+												Location: Red Hall<br><br>
+
+												[16:20-17:20]<br>
+												<strong>Poster Session</strong><br>
+												Location: Lobby<br><br>
+												
+												<ul>
+													<li>
+														<strong>Degree centrality as a measure of robustness of dependency structures of the sentences in a large-scale learner corpus of English </strong><br>
+														Masanori Oya
+													</li>
+
+													<li>
+														<strong>Application of Existing Readability Methods to the Ukrainian Language: A Comprehensive Study </strong><br>
+														Serhii D Prykhodchenko, Oksana Yu. Prykhodchenko
+													</li>
+
+													<li>
+														<strong>The Interplay of Noun Phrase Complexity and Modification Type in Scientific Writing </strong><br>
+														Isabell Landwehr
+													</li>
+
+													<li>
+														<strong>Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis </strong><br>
+														Josh Higdon, Valeria Pagliai, Zoey Liu
+													</li>
+
+													<li>
+														<strong>Do Multilingual Transformers Encode Paninian Grammatical Relations? A Layer-wise Probing Study </strong><br>
+														Akshit Kumar, Dipti Sharma, Parameswari Krishnamurthy
+													</li>
+												
+													<li>
+														<strong>«Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies </strong><br>
+														Claudia Corbetta, Federica Iurescia, Marco Carlo Passarotti
+													</li>
+
+													<li>
+														<strong>Case Syncretism in Kasavakan Puyuma: A Field Data Analysis of Noun Phrase Markers </strong><br>
+														Deborah Watty, Yung-Jui Yao, Jens N. Watty
+													</li>
+
+													<li>
+														<strong>How to Create Treebanks without Human Annotators -- An Indigenous Language Grammar Checker for Treebank Construction </strong><br>
+														Linda Wiechetek, Flammie A Pirinen, Maja Lisa Kappfjell
+													</li>
+
+													<li>
+														<strong>An intonosyntactic treebank for spoken French: What is new with Rhapsodie? </strong><br>
+														Maria Paz Botero-Garcia, Emmett Strickland, Bruno Guillaume, Sylvain Kahane, Anne Lacheret-Dujour
+													</li>
+												</ul>
+											</td>
+										</tr>
+
+										<tr>
+											<td class="highlight"><strong>17:20 – 17:30</strong></td>
+											<td style="background-color:#E0E0E0;" colspan="2"><strong>Closing Session</strong></td>
+										</tr>
+									</table>
+
+									<div style="text-align: right; font-size: larger;">
+										<a href="#Top"><strong>↑ Back to top</strong></a>
+									</div>
+								</div>
 							</article>
 
 						</div>
