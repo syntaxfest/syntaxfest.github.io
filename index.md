@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# 4 events for 1 Fest of Empirical Syntax
+# 5 events for 1 Fest of Empirical Syntax
 
 The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
 
