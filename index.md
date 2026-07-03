@@ -8,7 +8,7 @@ The SyntaxFest brings together four events with partially overlapping research t
 
 ## 2027: SyntaxFest Prague 2027
 
-The fifth edition will be held in Prague from 30 August to 3 September 2027.
+The fifth edition will be held in Prague from 30 August to 3 September 2027: [SyntaxFest 2027 Prague](syntaxfest27/)
 
 * UDW: 10th Universal Dependencies Workshop
 * Depling: 9th International Conference on Dependency Linguistics
