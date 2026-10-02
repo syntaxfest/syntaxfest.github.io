@@ -6,7 +6,7 @@ title: Home
 
 The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
 
-## 2027: SyntaxFest Prague 2027
+## 2027: [![SyntaxFest Prague 2027](/images/syntaxfest.prague.horizontal.png)](syntaxfest27)
 
 The fifth edition will be held in Prague from 30 August to 3 September 2027: [SyntaxFest 2027 Prague](syntaxfest27/)
 
