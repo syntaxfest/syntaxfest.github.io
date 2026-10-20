@@ -1,0 +1,394 @@
+
+<!DOCTYPE HTML>
+<!--
+    Strongly Typed by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license
+    https://html5up.net/license
+-->
+<html lang="en">
+<head>
+    <title>SyntaxFest 2027 | Visa Information</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="icon" type="image/png" href="images/favicon-32x32.png" />
+
+    <!-- Page-specific styling -->
+    <style>
+        /* Information overview */
+		.visa-overview {
+			display: grid;
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+			gap: 1em;
+			margin: 2em 0 3em;
+			padding-bottom: 2em;
+		}
+
+        .visa-stat {
+            padding: 1.5em 1.2em;
+            background: #f7f7f7;
+            border-top: 3px solid #ed786a;
+            border-radius: 3px;
+            min-width: 0;
+        }
+
+        .visa-stat-label {
+            display: block;
+            font-size: 0.85em;
+            color: #777;
+            margin-bottom: 0.5em;
+        }
+
+        .visa-stat-value {
+            display: block;
+            font-size: 1.5em;
+            line-height: 1.3;
+            font-weight: 600;
+            color: #444;
+            margin-bottom: 0.5em;
+        }
+
+        .visa-stat-note {
+            display: block;
+            font-size: 0.82em;
+            line-height: 1.6;
+            color: #777;
+        }
+
+        /* Content sections */
+        .visa-section {
+            margin-top: 2.8em;
+        }
+
+        .visa-section p {
+            line-height: 1.8;
+        }
+
+        .visa-section ul {
+            line-height: 1.8;
+            margin-left: 1.5em;
+            margin-bottom: 1.5em;
+        }
+
+        .visa-section li {
+            padding-left: 0.25em;
+            margin-bottom: 0.45em;
+        }
+
+        /* Important information */
+        .visa-warning {
+            padding: 1.5em 1.6em;
+            background: #fff8f6;
+            border: 1px solid #f0d4cf;
+            border-radius: 3px;
+            margin: 1.5em 0 0;
+        }
+
+        .visa-warning ul {
+            margin-bottom: 0;
+        }
+
+        .visa-warning li:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Improve link readability */
+        .visa-page a {
+            overflow-wrap: anywhere;
+        }
+
+        /* Tablet */
+        @media screen and (max-width: 980px) {
+            .visa-overview {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+
+        /* Mobile */
+        @media screen and (max-width: 480px) {
+            .visa-overview {
+                grid-template-columns: 1fr;
+                gap: 0.8em;
+                margin: 1.5em 0 2em;
+            }
+
+            .visa-stat {
+                padding: 1.2em;
+            }
+
+            .visa-stat-value {
+                font-size: 1.35em;
+            }
+
+            .visa-contact,
+            .visa-warning {
+                padding: 1.1em;
+            }
+
+            .visa-section {
+                margin-top: 2em;
+            }
+        }
+    </style>
+</head>
+
+<body class="no-sidebar is-preload">
+<div id="page-wrapper">
+
+    <!-- Header -->
+			<section id="header">
+				<div class="container">
+					<!-- Nav -->
+					<nav id="nav" style="font-size: 22px;">
+						<ul>
+							<li><a href="index.html"><span>Home</span></a></li>
+							<li class="has-dropdown">
+								<a href="calls.html"><span>Calls</span></a>
+								<!-- <ul class="dropotron"> -->
+									<!-- <li style="white-space: nowrap;"><a href="cfp_depling.html" style="display: block;">DepLing</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="cfp_iwpt.html" style="display: block;">IWPT</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="cfp_quasy.html" style="display: block;">QUASY</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="cfp_slide.html" style="display: block;">SliDE</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="cfp_udw.html" style="display: block;">UDW</a></li> -->
+								<!-- </ul> -->
+							</li>
+							<li><a href="committees.html"><span>Committees</span></a></li>
+							<li class="has-dropdown">
+								<a href="programme.html"><span>Programme</span></a>
+								<!-- <ul class="dropotron"> -->
+									<!-- <li style="white-space: nowrap;"><a href="programme.html" style="display: block;">Schedule</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="keynotes.html" style="display: block;">Keynote Speakers</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="author_instructions.html" style="display: block;">Author Instructions</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="social_events.html" style="display: block;">Social Events</a></li> -->
+								<!-- </ul> -->
+							</li>
+							<li><a href="registration.html"><span>Registration</span></a></li>
+							<li class="has-dropdown">
+								<a href="visa.html"><span>Location</span></a>  <!-- FG: replace with venue.html when filled in. -->
+								<ul class="dropotron">
+									<!-- <li style="white-space: nowrap;"><a href="venue.html" style="display: block;">Venue</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="lunch.html" style="display: block;">Lunch</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="travel.html" style="display: block;">Travel</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="accommodation.html" style="display: block;">Accommodation</a></li> -->
+									<!-- <li style="white-space: nowrap;"><a href="recommendations.html" style="display: block;">Recommendations</a></li> -->
+									<li style="white-space: nowrap;"><a href="visa.html" style="display: block;">Visa</a></li>
+								</ul>
+							</li>
+							<li><a href="https://syntaxfest.github.io/" target="_blank" rel="noopener noreferrer"><span>Past events</span></a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+    <!-- Main content -->
+    <section id="main">
+        <div class="container">
+            <div id="content">
+
+                <article class="box post visa-page">
+
+                    <header>
+                        <h2>Visa Information</h2>
+                    </header>
+
+                    <!-- Overview -->
+                    <div class="visa-overview">
+
+                        <div class="visa-stat">
+                            <span class="visa-stat-label">Typical processing time</span>
+                            <span class="visa-stat-value">15 calendar days</span>
+                            <span class="visa-stat-note">
+                                Some applications may take up to 45 days.
+                            </span>
+                        </div>
+
+                        <div class="visa-stat">
+                            <span class="visa-stat-label">Standard visa fee</span>
+                            <span class="visa-stat-value">€90</span>
+                            <span class="visa-stat-note">
+                                Confirm the applicable fee with your local embassy.
+                            </span>
+                        </div>
+
+                        <div class="visa-stat">
+                            <span class="visa-stat-label">Application window</span>
+                            <span class="visa-stat-value">Up to 6 months</span>
+                            <span class="visa-stat-note">
+                                Applications can generally be submitted up to
+                                6 months before the planned trip.
+                            </span>
+                        </div>
+
+                        <div class="visa-stat">
+                            <span class="visa-stat-label">Short-stay limit</span>
+                            <span class="visa-stat-value">90 / 180 days</span>
+                            <span class="visa-stat-note">
+                                For stays of up to 90 days within any
+                                180-day period.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <section class="visa-section">
+                        <h3>Schengen visa (up to 90 days stay)</h3>
+
+                        <strong>Who needs a visa?</strong>
+
+                        <p>
+                            Third-country nationals generally need a visa to enter Czechia, except for EU nationals
+							and citizens of countries that have a visa exemption agreement with the EU for
+                            <a href="https://mzv.gov.cz/jnp/en/information_for_aliens/short_stay_visa/x90_180_rule/index.html"
+                                target="_blank"
+                                rel="noopener noreferrer">
+								short stays</a>
+							(up to 90 days within 180 days).
+                        </p>
+
+                        <ul>
+                            <li>
+                                <a href="https://mzv.gov.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are/index.html"
+                                    target="_blank"
+                                    rel="noopener noreferrer">
+                                    Details and list of countries with visa obligation
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://mzv.gov.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are_exempt/index.html"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
+                                    Details and list of countries with visa exemption </a>
+                            </li>
+                        </ul>
+
+                        <strong>Where do I apply?</strong>
+
+                        <p>
+                            Czech Embassies and Consulates are responsible for issuing visas. Visa applications must
+							be submitted to the mission responsible for your place of residence. For Schengen visas,
+							applications should be made at the mission of the country that is your main destination.
+                        </p>
+
+                        <strong>How much does it cost?</strong>
+
+                        <p>
+                            The Schengen visa processing fee is typically EUR 90. Please consult your local embassy
+							before applying.
+                        </p>
+
+                        <strong>How long does it take?</strong>
+
+                        <p>
+                            Schengen visa applications are typically processed within 15 calendar days but waiting
+							times may be longer during peak travel seasons (individual cases may take up to 45 days).
+							You can apply 6 months to 15 days before your trip, though appointments can be made earlier.
+                        </p>
+
+                        <strong>Application procedure</strong>
+
+                        <p>
+                            Visa applications must generally be submitted in person at the mission or visa application
+							centre in your place of residence. To avoid delays, check the mission's website ahead of
+							time for the specific visa requirements and documentation. You can complete the application
+							form online and bring a printed copy to your appointment. <br>
+                            You can find the official application forms and further instructions here:
+                            <a
+                                href="https://mzv.gov.cz/jnp/en/information_for_aliens/visa_form/index.html"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Details and downloads</a>.
+                        </p>
+
+                        <p>
+                            For additional information and updates, consult the
+                            <a
+                                href="https://mzv.gov.cz/jnp/en/information_for_aliens/index.html"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >official website of the Czech Ministry of Foreign Affairs</a>.
+                        </p>
+                    </section>
+
+                   <section class="visa-section">
+                        <h3>Letter of invitation</h3>
+
+                        <p>
+                            If you need a letter of invitation or some other document for your visa application, you
+							can request it over email at
+							<a href="mailto:syntaxfest@ufal.mff.cuni.cz">syntaxfest@ufal.mff.cuni.cz</a>
+							once your registration fee is paid.
+ 							<span style="color: #ff0000; font-weight: bold;">
+								If you require a letter of invitation, we strongly encourage you to apply early to
+								allow sufficient time for the administrative process.
+							</span>
+						</p>
+
+                        <div class="visa-warning">
+							<strong style="display: block; margin-bottom: 1em;">
+								Please be aware
+							</strong>
+                            <ul>
+                                <li>
+									Issuing a Schengen visa cannot be guaranteed. In individual cases it may take up
+									to 45 days. Thus, it is important to apply as soon as your travel plans are
+									finalized from up to 6 months ahead of your travel.
+									<strong>The invitation letter serves only as a supporting document and does not
+									guarantee the issuance of a visa.</strong>
+                                </li>
+
+                                <li>
+									In some cases, Charles University cannot guarantee issuing letter of invitation.
+									The eligibility will be considered on individual basis for each applicant. We
+									advise you to contact us prior to registering at
+									<a href="mailto:syntaxfest@ufal.mff.cuni.cz">syntaxfest@ufal.mff.cuni.cz</a>.
+                                </li>
+
+                                <li>
+									<strong>Please note that the standard cancellation policies still apply in case
+									you are not deemed eligible for invitation letter.</strong>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </section>
+
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <section id="footer">
+        <div id="copyright" class="container">
+            <ul class="links">
+                <li>
+                    Contact:
+                    <a href="mailto:syntaxfest@ufal.mff.cuni.cz">
+                        syntaxfest@ufal.mff.cuni.cz
+                    </a>
+                </li>
+                <li>
+                    Design based on Strongly Typed from
+                    <a href="https://html5up.net" target="_blank" rel="noopener noreferrer">
+                        HTML5 UP
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.dropotron.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>

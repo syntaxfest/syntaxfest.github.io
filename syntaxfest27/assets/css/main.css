@@ -2033,7 +2033,6 @@ input, select, textarea {
 		margin-top: calc(-0.5em + 1px);
 		margin-left: -2px;
 		list-style: none;
-    		display: none !important;
 	}
 
 		.dropotron.level-0 {
@@ -2117,13 +2116,13 @@ input, select, textarea {
 
 /* Banner */
 #wide-banner {
-    width: 100%;
+   width: 100%;
    background: url("../../images/anthony-delanoix-aDxmYZtYj7g-unsplash.jpg") no-repeat center center;
    background-size: cover;
-   background-position: center 20%;
-   aspect-ratio: 6496 / 4331;        /* ADDED: set this to your image's real width / height */
-    max-height: 950px;            /* ADDED: banner never gets taller than this */
-   height: auto;                /* CHANGED: was height: 500px */
+   background-position: center 29%;
+   aspect-ratio: 6496 / 4331;    /* ADDED: image's real width / height */
+   max-height: 640px;            /* ADDED: banner never gets taller than this */
+   height: auto;                 /* CHANGED: was height: 500px */
    line-height: 1.0;
    display: flex;
    justify-content: center;
@@ -2135,9 +2134,9 @@ input, select, textarea {
 #wide-banner-text {
 	color: #fff;
 	font-weight: bold;
-	/* REMOVED: margin-top: 225px (also missing a semicolon) */
-	text-align: center;          /* ADDED */
-    transform: translateY(-300px);   /* ADDED: moves the text up, increase for more */
+	/* REMOVED: margin-top: 225px */
+	text-align: center;              /* ADDED */
+  transform: translateY(-250px);   /* ADDED: moves the text up, increase for more */
 }
 
 	#wide-banner-text > #title {
@@ -2292,8 +2291,15 @@ input, select, textarea {
 	/* ADDED: smaller second line with the credits */
 	#copyright .links.credits {
 		font-size: 0.8em;
-		margin-top: -1.5em;   /* tightens the gap, since ul has a 2em bottom margin */
+		margin-top: -1.5em;
 	}
+
+  /* Mobile: prevent the footer lines from overlapping */
+  @media screen and (max-width: 736px) {
+      #copyright .links.credits {
+          margin-top: 0;
+    }
+}
 
 /* XLarge */
 
@@ -2796,3 +2802,4 @@ input, select, textarea {
 				}
 
 	}
+
