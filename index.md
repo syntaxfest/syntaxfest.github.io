@@ -4,7 +4,9 @@ title: Home
 ---
 # 5 events for 1 Fest of Empirical Syntax
 
-The SyntaxFest brings together four events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
+The SyntaxFest brings together five events with partially overlapping research topics including empirical syntax, linguistic annotation, statistical language analysis, and Natural Language Processing.
+
+<h2 style="color: #d45500; text-align: center; text-transform: uppercase;">Upcoming event</h2>
 
 ## 2027: [![SyntaxFest Prague 2027](/images/syntaxfest.prague.horizontal.png)](syntaxfest27)
 
@@ -15,6 +17,8 @@ The fifth edition will be held in Prague from 30 August to 3 September 2027: [Sy
 * SLiDE: 2nd Workshop on Structured Linguistic Data and Evaluation
 * IWPT: 19th International Conference on Parsing Technologies
 * QUASY: 4th Workshop on Quantitative Syntax
+
+<h2 style="color: #d45500; text-align: center; text-transform: uppercase;">Past events</h2>
 
 ## 2025: [![SyntaxFest Ljubljana 2025](/images/SyntaxFest.Ljubljana.horizontal.png)](syntaxfest25)
 
