@@ -1,0 +1,122 @@
+/* Workshop call page enhancements — designed to complement Strongly Typed */
+.workshop-page .workshop-links {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.2em;
+    margin: 1.5em 0 2.4em;
+}
+
+.workshop-page .workshop-link-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 1.5em 1.6em;
+    background: #f7f7f7;
+    border-top: 3px solid #d45500;
+    border-radius: 3px;
+}
+
+.workshop-page .workshop-link-label {
+    display: block;
+    margin-bottom: 0.55em;
+    color: #777;
+    font-size: 0.85em;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.workshop-page .workshop-link-card p {
+    margin: 0;
+    line-height: 1.65;
+}
+
+.workshop-page .workshop-link-card a {
+    font-weight: 600;
+    overflow-wrap: anywhere;
+}
+
+.workshop-page .workshop-link-card .workshop-link-note {
+    margin-top: 0.45em;
+    color: #777;
+    font-size: 0.88em;
+}
+
+.workshop-page a {
+    overflow-wrap: anywhere;
+}
+
+
+/* Icons for link cards and contact box */
+.workshop-page .workshop-link-card {
+    position: relative;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.workshop-page .workshop-link-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.workshop-page .workshop-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+    background: #d45500;
+    color: #fff;
+}
+
+.workshop-page .workshop-icon svg {
+    width: 1.5em;
+    height: 1.5em;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.workshop-page .workshop-link-head {
+    display: flex;
+    align-items: center;
+    gap: 0.9em;
+    margin-bottom: 0.9em;
+}
+
+.workshop-page .workshop-link-head .workshop-link-label {
+    margin-bottom: 0;
+}
+
+.workshop-page .workshop-link-card.is-pending {
+    border-top-color: #c9c9c9;
+}
+
+.workshop-page .workshop-link-card.is-pending .workshop-icon {
+    background: #9a9a9a;
+}
+
+.workshop-page .workshop-badge {
+    display: inline-block;
+    padding: 0.2em 0.8em;
+    border-radius: 999px;
+    background: #e6e6e6;
+    color: #555;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 736px) {
+    .workshop-page .workshop-links {
+        grid-template-columns: 1fr;
+        gap: 0.9em;
+        margin: 1.2em 0 2em;
+    }
+
+    .workshop-page .workshop-link-card {
+        padding: 1.2em;
+    }
+}
