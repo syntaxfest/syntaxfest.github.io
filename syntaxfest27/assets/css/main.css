@@ -2114,95 +2114,94 @@ input, select, textarea {
 			margin-top: 1.25em;
 		}
 
-/* Banner */
+/* Homepage banner slideshow */
 #wide-banner {
-   width: 100%;
-   background: url("../../images/anthony-delanoix-aDxmYZtYj7g-unsplash.jpg") no-repeat center center;
-   background-size: cover;
-   background-position: center 29%;
-   aspect-ratio: 6496 / 4331;    /* ADDED: image's real width / height */
-   max-height: 640px;            /* ADDED: banner never gets taller than this */
-   height: auto;                 /* CHANGED: was height: 500px */
-   line-height: 1.0;
-   display: flex;
-   justify-content: center;
-   align-items: center;         /* ADDED: centers the text vertically at any size */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    aspect-ratio: 6496 / 4331;
+    max-height: 640px;
+    overflow: hidden;
+    line-height: 1;
+    background: #222;
 }
 
+/* Each slide fills the same banner area.
+   'cover' crops excess image area without stretching the photograph. */
+#wide-banner .banner-slide {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0;
+    animation: bannerFade 15s ease-in-out infinite;
+    z-index: 0;
+}
 
+/* Adjust each background-position to keep the important subject visible. */
+#wide-banner .banner-slide:nth-child(1) {
+    background-image: url("../../images/anthony-delanoix-aDxmYZtYj7g-unsplash.jpg");
+    background-position: center 29%;
+    animation-delay: 0s;
+}
 
+#wide-banner .banner-slide:nth-child(2) {
+    background-image: url("../../images/pexels-geekymegt-11261848.jpg");
+    background-position: center 70%;
+    animation-delay: 5s;
+}
+
+#wide-banner .banner-slide:nth-child(3) {
+    background-image: url("../../images/pexels-hathang73-8305988.jpg");
+    background-position: center 48%;
+    animation-delay: 10s;
+}
+
+/* The text sits above the images. */
 #wide-banner-text {
-	color: #fff;
-	font-weight: bold;
-	/* REMOVED: margin-top: 225px */
-	text-align: center;              /* ADDED */
-  transform: translateY(-250px);   /* ADDED: moves the text up, increase for more */
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    padding: 0 1.5rem;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
+    transform: translateY(-250px);
 }
 
-	#wide-banner-text > #title {
-		font-size: 56px;
-	}
+#wide-banner-text > #title {
+    font-size: 56px;
+}
 
-	#wide-banner-text > #subtitle {
-		font-size: 38px;
-	}
+#wide-banner-text > #subtitle {
+    font-size: 38px;
+}
 
-	#banner {
-		position: relative;
-		overflow: hidden;
-		background: #fff;
-		color: #fff;
-		text-align: center;
-		border-top: solid 2px #e5e5e5;
-		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
-		position: relative;
-		text-transform: uppercase;
-		background: url("../../images/banner.jpg");
-		background-size: cover;
-		padding: 10em 0;
-	}
+/* Each image fades in, stays visible, then fades out.
+   The five-second offsets make the three slides rotate in sequence. */
+@keyframes bannerFade {
+    0%   { opacity: 0; }
+    5%   { opacity: 1; }
+    30%  { opacity: 1; }
+    35%  { opacity: 0; }
+    100% { opacity: 0; }
+}
 
-		#banner p {
-			font-weight: 400;
-			font-size: 2em;
-			line-height: 1.5em;
-			letter-spacing: 4px;
-			text-align: center;
-			margin: 0;
-		}
+/* Respect visitors who prefer reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+    #wide-banner .banner-slide {
+        animation: none;
+    }
 
-		#banner strong {
-			color: inherit;
-		}
-
-		#banner > .container {
-			position: relative;
-		}
-
-			#banner > .container:before, #banner > .container:after {
-				content: '';
-				display: block;
-				position: absolute;
-				top: 50%;
-				width: 35px;
-				height: 141px;
-				margin-top: -70px;
-				background: url("images/bracket.svg");
-				opacity: 0.15;
-			}
-
-			#banner > .container:before {
-				left: 0;
-			}
-
-			#banner > .container:after {
-				-moz-transform: scaleX(-1);
-				-webkit-transform: scaleX(-1);
-				-ms-transform: scaleX(-1);
-				transform: scaleX(-1);
-				right: 0;
-			}
+    #wide-banner .banner-slide:first-child {
+        opacity: 1;
+    }
+}
 
 /* Main */
 
@@ -2403,14 +2402,20 @@ input, select, textarea {
 	@media screen and (max-width: 980px) {
 
 		#wide-banner {
-	    /* REMOVED: the <!-- background-size ... --> comment, background-size,
-	   background-position and height: 300px.
-	   The base rule now handles all of it. */
-        }
+			max-height: 520px;
+		}
 
-        #wide-banner-text {
-            /* REMOVED: margin-top: 110px */
-        }
+		#wide-banner-text {
+			transform: translateY(-150px);
+		}
+
+		#wide-banner-text > #title {
+			font-size: 46px;
+		}
+
+		#wide-banner-text > #subtitle {
+			font-size: 30px;
+		}
 
         #wide-banner-text > #title {
             font-size: 46px;   /* unchanged */
@@ -2630,11 +2635,32 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
         #wide-banner {
-            /* REMOVED: height: 200px and background-size: cover */
+            /* A taller crop gives the banner useful presence on narrow screens. */
+            aspect-ratio: 4 / 3;
+            max-height: 420px;
+            min-height: 250px;
+        }
+
+        #wide-banner .banner-slide {
+            background-position: center center;
+        }
+
+        /* Keep each photograph's focal point visible on mobile. */
+        #wide-banner .banner-slide:nth-child(1) {
+            background-position: center 29%;
+        }
+
+        #wide-banner .banner-slide:nth-child(2) {
+            background-position: center 50%;
+        }
+
+        #wide-banner .banner-slide:nth-child(3) {
+            background-position: center 50%;
         }
 
         #wide-banner-text {
-            /* REMOVED: margin-top: 70px */
+            padding: 0 1rem;
+            transform: translateY(-75px);
         }
 
 		#wide-banner-text > #title {
@@ -2644,6 +2670,25 @@ input, select, textarea {
 		#wide-banner-text > #subtitle {
 			font-size: 24px;
 		}
+
+        @media screen and (max-width: 480px) {
+            #wide-banner {
+                aspect-ratio: 5 / 4;
+                min-height: 230px;
+            }
+
+            #wide-banner-text {
+                transform: translateY(-110px);
+            }
+
+            #wide-banner-text > #title {
+                font-size: clamp(25px, 7vw, 32px);
+            }
+
+            #wide-banner-text > #subtitle {
+                font-size: clamp(17px, 5vw, 22px);
+            }
+        }
 
 
 		/* Basic */
@@ -2802,4 +2847,3 @@ input, select, textarea {
 				}
 
 	}
-
